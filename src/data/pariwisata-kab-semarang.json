@@ -1,0 +1,936 @@
+{
+    "wisata": [
+      {
+        "detail": {
+          "ID_WISATA": 1,
+          "NAMA": "Wana Wisata Penggaron",
+          "ALAMAT": "Siroto, Susukan, Kecamatan Ungaran Timur",
+          "KECAMATAN": "Ungaran Timur",
+          "TELP": [null],
+          "FOTO": ["https://i0.wp.com/penginapan.net/wp-content/uploads/Wana-Wisata-Penggaron..jpg?resize=460%2C300&ssl=1", "http://assets.kompasiana.com/items/album/2020/03/01/capture-2020-03-01-14-49-48-5e5b69f5d541df7c0449e0c2.jpg", "https://wisatakita.com/pariwisata/411/800-Wana-Wisata-Penggaron.jpeg", "https://2.bp.blogspot.com/-au4TBAfxw5s/W6ExSTSsNyI/AAAAAAAAAQg/fTt5s5Mryh4kEfd3qGhS33RCYJ6_kSj6ACLcBGAs/w1200-h630-p-k-no-nu/Wana%2BWisata%2BHutan%2BPenggaron%2B2.jpg"],
+          "DESKRIPSI": "Memasuki kawasan Wana Wisata, selain suasana alam yang masih asri, di sana pengunjung dapat melakukan berbagai aktivitas menarik, mulai dari olahraga, jungle tracking, outbound training, latihan SAR, camping, pramuka, trabas, rekreasi, piknik, dan berbagai aktivitas yang dapat dilakukan di ruang terbuka lainnya. \n Tidak hanya itu, Wana Wisata juga dijadikan sebagai lokasi pengamatan burung yang cukup bagus. Kawasan ini menyimpan sekitar 97 spesies burung liar, seperti merak hijau, elang ular bido, kadalan birah, dan kadalan kembang.\nMemiliki medan yang sedikit menantang membuat para pecinta offroad menjadikan kawasan ini sebagai tempat yang wajib dikunjungi. Selain menguji adrenalin, kawasan ini seakan mampu menjadi obat penawar kebosananmu dari hiruk pikuk perkotaan."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.114242552102445, 110.42201117669968]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 2,
+            "NAMA": "Wana Wisata Air Terjun Semirang",
+            "ALAMAT": "Gintungan, Desa Gogik, Kecamatan Ungaran Barat",
+            "KECAMATAN": "Ungaran Barat",
+            "TELP": ["085640732113 Madib", "085640201051"],
+            "FOTO": ["https://seringjalan.com/wp-content/uploads/2020/02/Air-Terjun-Semirang-Ungaran-Di-Semarang.jpg", "https://nalatra.com/wp-content/uploads/2020/11/wana-wisata-Curug-Semirang.jpg", "https://1.bp.blogspot.com/-TdcxNLBV_HY/XT_DL7C8EeI/AAAAAAAAA5Q/c0EZbBArDsYId-txJyUr9ZWZ1z6D5CobACLcBGAs/s1600/IMG_20190726_104917.jpg", "https://jatengdaily.com/wp-content/uploads/2019/06/curug-semirang.jpg", "https://travelspromo.com/wp-content/uploads/2021/12/Kolam-Berenang-Berair-Hijau-di-Air-Terjun-Semirang-e1638511991874.jpeg", "http://direktoripariwisata.id/imgunit/6992.jpg", "https://ungarannews.com/wp-content/uploads/2019/10/semirang.jpg"],
+            "DESKRIPSI": "Curug semirang adalah destinasi wisata alam yang berada di dalam area hutan lindung seluas 10 hektar. Hutan yang dikelola oleh perum perhutani ini memiliki keasrian yang masih terjaga. Satu diantara yang menarik dikawasan ini terdapat sebuah air terjun yang tingginya mencapai 45 meter. Menyusuri jalan landai yang menyajikan atmosfer hutan alami membuat hati dan perasaan terasa lebih tentram. Ujung dari penyusuran dengan berjalan kaki tersebut adalah sebuah kolam renang dengan air yang berwarna hijau. Warna hijau itu merupakan pantulan dari dedaunan pohon yang ada di lokasi kolam."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.165594527814329, 110.38102508466005]
+        }
+      }
+      ,
+      {
+        "detail": {
+            "ID_WISATA": 3,
+            "NAMA": "Curug Kembar Bolodewo",
+            "ALAMAT": "Desa Wirogomo, Kecamatan Banyubiru",
+            "KECAMATAN": "Banyubiru",
+            "TELP": [null],
+            "FOTO": ["https://i0.wp.com/paket-wisatabromo.com/wp-content/uploads/2020/11/kembar-2-sc.png?resize=580%2C395&ssl=1", "https://2.bp.blogspot.com/-Lf1KM8WeCWg/VjK4CadgFyI/AAAAAAAAIwo/7I-GMW90aAU/s1600/curug%2Bkembar1.jpg", "https://1.bp.blogspot.com/-cww3T4-Lppg/XHCYNu6l9CI/AAAAAAAAB7U/pT4lSn6IQU0_-s7EdeKFz8_kRq0FwAfngCLcBGAs/w1280-h720-p-k-no-nu/Air%2BTerjun%2BKembar%2BBaladewa.jpg", "https://3.bp.blogspot.com/-Rjc8YojGcHs/UYBrBFUzuNI/AAAAAAAAEDk/BMxoJQFDtCA/s1600/_MG_8599.JPG", "https://live.staticflickr.com/3393/3440426753_1d385a2723_b.jpg", "https://3.bp.blogspot.com/-qsY3KYUIcSk/UYDUQ7jG80I/AAAAAAAAEIk/X2U5HNJioe4/w1200-h630-p-k-no-nu/Curug+Kembar+Baladewa.jpg", "https://2.bp.blogspot.com/-RPmapdZsW_E/VjK4FFbogDI/AAAAAAAAIw4/IokWVMbc5kk/s640/curug%2Bkembar3.jpg"],
+            "DESKRIPSI": "Masyarakat setempat menyebutnya dengan Curug Kembar Bolodewo dikarenakan di tempat tersebut ada dua air terjun yang bersebelahan dan jaraknya hanya sekitar seratus meteran saja. Sedangkan untuk ketinggian Curug Kembar Bolodewo yang pertama adalah sekitar 50 meter dan yang kedua setinggi kurang lebih 70 meter. Lokasi wisata air terjun ini terletak di Taman Wisata Argo Kelir Curug Kembar Bolodewo."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.341987675173538, 110.38971338869355]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 4,
+          "NAMA": "Curug Tujuh Bidadari",
+          "ALAMAT": "Jl. Ke Tlawah, Desa Keseneng, Kecamatan Sumowono, Kabupaten Semarang 50662",
+          "KECAMATAN": "Sumowono",
+          "TELP": ["081226546565 (Deri)", "082137015600"],
+          "FOTO": ["https://www.jejakpiknik.com/wp-content/uploads/2017/11/@alifiansyah_aw-630x436.jpg", "https://wisatalova.com/wp-content/uploads/2016/11/curug-7-bidadari-desa-keseneng.jpg", "https://perpus.jatengprov.go.id/images/curug-7-bidadari.jpg", "https://jadwaltravel.com/wp-content/uploads/2019/12/Curug-7-Bidadari-Sumowono.jpg", "http://1.bp.blogspot.com/-ZOZiKviSIGY/Utn_mjp0EvI/AAAAAAAAPiE/5U1ZfJB1MRk/s1600/Pengunjung_air_terjun_curug_tujuh_bidadari.jpg", "https://djonews.com/wp-content/uploads/2020/01/image_2021-08-02_191330.png", "http://wisatabaru.com/wp-content/uploads/2017/10/AIR-TERJUN-CURUG-7-BIDADARI-DI-SENTUL-BOGOR.jpg", "https://2.bp.blogspot.com/-ZKG95LsjZJU/VuDe05RwmzI/AAAAAAAAKtI/WfP1fjZb_2w/s1600/Curug%2B7%2BBidadari%2BSumowono%2BKabupaten%2BSemarang3.jpg", "http://4.bp.blogspot.com/-i8JNpzg7n70/Utn_jXOH2zI/AAAAAAAAPh8/TqgX8nPYd_k/s1600/Jernihnya_air_di_Curug_7_Bidadari.jpg", "https://www.loenpia.net/wp-content/uploads/2011/04/curug-7-bidadari.jpg"],
+          "DESKRIPSI": "Curug 7 Bidadari adalah obyek wisata air terjun yang terletak di kawasan area persawahan lereng Gunung Ungaran. Tempat ini bernama curug 7 bidadari yang memiliki keunikan pada jumlah curugnya (air terjun) 7 buah yang terbentuk secara alami. Curug 7 Bidadari memiliki 3 tingkatan, pada tingkat pertama terdapat 1 air terjun. Pada tingkat kedua terdapat 2 air terjun, dan yang paling bawah ada 4 air terjun yang saling berdampingan. Jarak antara tingkat pertama ke tingkat kedua memiliki ketinggian sekitar 7 meter, sedangkan jarak tingkat kedua ke tingkat ketiga sekitar 6 meter. Air terjun ini hasil aliran alami dari Gunung Ungaran karena memang letaknya yang tidak berada jauh dari Gunung Ungaran."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.20294775047644, 110.28938296439436]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 5,
+            "NAMA": "Air Terjun Kali Pancur",
+            "ALAMAT": "Gejayan, Desa Nogosaren, Kecamatan Getasan",
+            "KECAMATAN": "Getasan",
+            "TELP": [null],
+            "FOTO": ["https://www.jejakpiknik.com/wp-content/uploads/2019/11/Foto-by-klikdieng.com_-630x380.jpg", "https://www.jejakpiknik.com/wp-content/uploads/2019/11/Foto-by-sengpaku.blogspot.com_-630x380.jpg", "https://images.bernas.id/public/foto_news/image_news_535/01598336026waterfall.jpg", "https://www.jejakpiknik.com/wp-content/uploads/2019/11/Foto-by-lepasnafas.com_-630x380.jpg", "https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/Air-Terjun-Kali-Pancur-Semarang2.jpg"],
+            "DESKRIPSI": "Lokasi objek wisata yang satu ini cukup tersembunyi di lereng Gunung Telomoyo dan menjadi salah satu air terjun tertinggi di wilayah Jawa Tengah. Ketinggian curug atau Air Terjun Kali Pancur ini kurang lebih sekitar 100 meter. Sambil menyusuri anak tangga yang jumlahnya ratusan, Anda bisa sambil menikmati jajaran pepohonan yang rimbun. Begitu tiba di lokasi, Anda bisa mengambil spot foto yang jadi daya tarik seperti di jembatan dan area sekitar air terjun. Aliran airnya tidak langsung turun menuju kolam utama melainkan lebih dulu mengguyur bebatuan yang tampak sedikit menonjol pada tebing batu. Perpaduan antara panorama jatuhnya air dan tebing batu yang kokoh mampu menyajikan keindahan alam yang mampu menghapus rasa lelah saat menuruni ratusan anak tangga."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.357835608041881, 110.42108419322453]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 6,
+          "NAMA": "Air Terjun Curug Lawe",
+          "ALAMAT": "Desa Kalisidi, Kecamatan Ungaran Barat",
+          "KECAMATAN": "Ungaran Barat",
+          "TELP": ["089669252628 Jirin", "08977773870"],
+          "FOTO": ["https://asset.kompas.com/crops/6z1Bn48FAk0LmimhPKd4nO3f3nc=/0x0:1620x1080/750x500/data/photo/2021/04/08/606e3dcfdf7b3.jpg", "https://asset.kompas.com/crops/6z1Bn48FAk0LmimhPKd4nO3f3nc=/0x0:1620x1080/750x500/data/photo/2021/04/08/606e3dcfdf7b3.jpg", "https://jejakpiknik.com/wp-content/uploads/2019/11/curug-lawe-limbangan-semarang-jawa-tengah.jpg", "https://asset.kompas.com/crops/tgoiJuC4iGteP5AhBzCXlFWfd58=/0x0:1620x1080/750x500/data/photo/2021/04/08/606e43396b996.jpg", "https://asset.kompas.com/crops/jgog8-zicR_pzF-KTwwCqRkkCss=/0x0:1620x1080/750x500/data/photo/2021/04/08/606e459c24dfc.jpg", "https://2.bp.blogspot.com/-fheWis3CNGE/WJsuRD0GdqI/AAAAAAAAADE/Ccv6pxRi4-wanNllPnDuehMIf7cbe1_sQCLcB/s1600/air%2Bterjun%2Bcurug%2Blawe.jpg", "https://www.asliindonesia.net/wp-content/uploads/2018/03/Curug-Lawe-dan-curug-Benowo-Wisata-di-Ungaran-Semarang.jpg", "https://cdn.medcom.id/dynamic/photos/2016/07/29/23224/1.jpg?w=720"],
+          "DESKRIPSI": "Daya tarik tempat wisata tersebut adalah alamnya yang masih asri lantaran berada di bawah pengelolaan Perhutani. Baik itu area air terjun, jalanan dari area parkir menuju area air terjun, dan dari area Curug Lawe ke Curug Benowo atau sebaliknya, lingkungannya masih sangat terpelihara. Sambil menikmati pemandangan hutan dan flora yang ada, pengunjung dapat melihat satwa liar yang menjadi ikon tempat wisata tersebut yakni lutung. Adapun, lutung dapat dilihat saat pengunjung melintasi Jembatan Romantis, jembatan yang dibangun di atas saluran air sepanjang 20-30 meter. Sementara pada area lain, satwa liar yang terkadang akan memunculkan diri adalah ular, kijang, serta kupu-kupu. Di sepanjang perjalanan menuju area air terjun, wisatawan juga akan disuguhi hamparan perkebunan cengkeh yang luas."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.140291746138059, 110.35403868754996]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 7,
+            "NAMA": "Candi Gedongsongo",
+            "ALAMAT": "Jl. Kyai Bidayah RT 3 RW 9 Dusun Darum, Desa Candi, Kecamatan Bandungan, Kabupaten Semarang",
+            "KECAMATAN": "Bandungan",
+            "TELP": ["024-6921424", "085875459255 (Sis)"],
+            "FOTO": ["https://travelspromo.com/wp-content/uploads/2019/05/Candi-gedong-songo-must-tant.jpg", "https://upload.wikimedia.org/wikipedia/commons/a/af/Gedong_songo.jpg", "https://dolanyok.com/wp-content/uploads/Candi-Gedong-Songo-Semarang.jpg", "https://www.hargatiket.net/wp-content/uploads/2019/01/harga-tiket-masuk-candi-gedong-songo-semarang.jpg"],
+            "DESKRIPSI": "Candi Gedong Songo adalah nama sebuah kompleks bangunan candi peninggalan budaya Hindu. Di kompleks candi ini terdapat sembilan buah candi. Candi ini terletak pada ketinggian sekitar 1.200 m di atas permukaan laut sehingga suhu udara di sini cukup dingin (berkisar antara 19-27 °C). Lokasi sembilan candi yang tersebar di lereng Gunung Ungaran ini memiliki pemandangan alam yang indah. Selain itu, objek wisata ini juga dilengkapi dengan pemandian air panas dari mata air yang mengandung belerang, area perkemahan, dan wisata berkuda."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.209653533848379, 110.34211362206392]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 8,
+            "NAMA": "Museum Palagan Ambarawa",
+            "ALAMAT": "Jl. Mgr Sugiyopranoto, Panjang Lor, Panjang, Ambarawa Kabupaten Semarang 50611",
+            "KECAMATAN": "Ambarawa",
+            "TELP": ["024-6921424", "082324964818 (Dirin)"],
+            "FOTO": ["https://sejarahlengkap.com/wp-content/uploads/2019/05/Sejarah-Monumen-Palagan-Ambarawa-1280x720.jpg", "https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/monumen-palagan.jpg", "https://pict-a.sindonews.net/dyn/620/content/2018/06/08/29/1312840/monumen-palagan-ambarawa-simbol-ketangguhan-tkr-usir-tentara-sekutu-j2G-thumb.jpg", "https://wisatajateng.com/wp-content/uploads/2020/07/21414826_1664957966881631_2921347865460005221_o.jpg"],
+            "DESKRIPSI": "Monumen Palagan Ambarawa merupakan simbol untuk mengenang sejarah pertempuran Palagan Ambarawa pada tanggal 12 Desember - 15 Desember 1945. Gambaran singkat sejarah pertempuran bisa dilihat pada relief yang dibuat pada dinding Monumen Palagan Ambarawa. Di monumen ini Anda dapat menemukan peninggalan pemerintahan Jepang dan Belanda. Anda dapat melihat seragam para tentara Jepang dan Belanda, senjata perang, seragam tentara Indonesia, dan barang bersejarah lain. Untuk ukuran yang agak besar, Anda dapat menemukan beberapa tank kuno, kendaraan angkut personil dan meriam yang digunakan dalam pertempuran tersebut. Yang paling menarik adalah Anda dapat menemukan pesawat Mustang Belanda yang berhasil ditembak jatuh ke dalam Rawa Pening"
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.259614707895986, 110.40260847973364]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 9,
+          "NAMA": "Museum Kereta Api Ambarawa",
+          "ALAMAT": "Jalan Stasiun No. 1, Panjang Kidul, Panjang, Ambarawa Kabupaten Semarang 50614",
+          "KECAMATAN": "Ambarawa",
+          "TELP": ["081229346070"],
+          "FOTO": ["https://travelspromo.com/wp-content/uploads/2019/03/Lokomotif-C2001-Museum-Kereta-Api-Ambarawa-Reza-Syahputra.jpg", "https://asset.kompas.com/crops/Sh_NJnewhlUzysjYuWZGgm7o6Kc=/63x0:1410x898/750x500/data/photo/2021/09/29/6153df663bba2.jpeg", "https://cdn.idntimes.com/content-images/community/2020/08/instagram-valeskasimo-65300405-2159935250799209-1817033125236200098-n-83022a59420e26b1f239fac5e68b49c5_600x400.jpg", "https://cdn.idntimes.com/content-images/community/2020/08/instagram-valeskasimo-65300405-2159935250799209-1817033125236200098-n-83022a59420e26b1f239fac5e68b49c5_600x400.jpg", "https://asset.kompas.com/data/photo/2016/12/18/0915351IMG-1401780x390.JPG", "https://pict-a.sindonews.net/dyn/620/content/2018/05/27/29/1309281/museum-kereta-api-ambarawa-wisata-sejarah-peninggalan-belanda-2OS-thumb.jpg", "https://foto.arahdestinasi.com/2019/05/31/887-foto_ilustrasi_indonesiatravel-800x450.jpg", "https://static.republika.co.id/uploads/images/inpicture_slide/depo-lokomotif-salah-satu-fasilitas-pendukung-operasional-kereta-wisata_200729163059-371.jpg", "https://www.pegipegi.com/travel/wp-content/uploads/2017/04/55232_T00734_aslibandungan_com_wpcontent_uploads_2013_09_museumkeretaapiambarawa.jpg", "https://www.jejakpiknik.com/wp-content/uploads/2017/10/museum-kereta-api-ambarawa-ditutup-630x380.jpg"],
+          "DESKRIPSI": "Museum KA Ambarawa memiliki kereta lokomotif uap yang bisa ditumpangi oleh wisatawan. Perjalanan KA Wisata Ambarawa dengan lokomotif uap maupun diesel vintage saat ini melayani rute Ambarawa-Tuntang pergi pulang (PP), dan Ambarawa-Bedono PP. Adapun, kereta tersebut akan melintasi satu-satunya rel bergigi yang masih aktif di Indonesia sejak pertama kali dibangun pada 1900-an. Wisatawan akan disuguhi oleh pemandangan alam yang indah saat menaiki kereta lokomotif uap tersebut. Hal itu karena rute Ambarawa-Tuntang menawarkan pemandangan gunung saat kereta melintasi Rawa Pening. Sementara rute Ambarawa-Bedono menawarkan pemandangan Gunung Ungaran dan Gunung Merbabu."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.2641928815211285, 110.40442137788418]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 10,
+            "NAMA": "Makam Nyatnyono",
+            "ALAMAT": "Desa Nyatnyono, Kecamatan Ungaran Barat, Kabupaten Semarang 50551",
+            "KECAMATAN": "Ungaran Barat",
+            "TELP": [null],
+            "FOTO": ["https://public.urbanasia.com/images/post/2021/04/19/1618820165-Screenshot-20210419-063319-Instagram.jpg", "https://painews.id/wp-content/uploads/2020/09/IMG-20200926-WA0009.jpg"],
+            "DESKRIPSI": "Tepatnya di Nyatnyono, Ungaran, ada sebuah makam yang sangat dikeramatkan oleh penduduk sekitar yaitu makam waliyullah Hasan Munadi dan makam putranya waliyullah Hasan Dipuro. Makam-makam wali tersebut hingga kini masih dirawat dengan baik oleh masyarakat. Makam waliyullah tersebut terletak di atas bukit dengan pemandangan yang sangat indah. Menariknya, di sekitar lokasi makam terdapat sebuah pemandian yang airnya diambil dari sebuah sendang peninggalan Kyai Hasan Munadi, letak dari sendangnya sendiri tak jauh dari lokasi makam. Tak hanya itu, sumber air yang memiliki nama Sendang Kalimah Toyyibah ini merupakan mata air di bawah pohon beringin yang berusia puluhan tahun. Sumber air ini tidak pernah kering meski musim kemarau panjang."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.148554429842635, 110.38290327285246]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 11,
+          "NAMA": "Goa Maria Kereb Ambarawa",
+          "ALAMAT": "Jl. Tentara Pelajar, Kerep, Kecamatan Ambarawa Kabupaten Semarang 50614",
+          "KECAMATAN": "Ambarawa",
+          "TELP": ["0298-592085"],
+          "FOTO": ["https://inibaru.id/nuploads/41/Camera%20HDR%20Studio%20-%201451482519615.jpg", "https://www.jejakpiknik.com/wp-content/uploads/2017/11/5-@bernardusivan-630x411.jpg", "http://4.bp.blogspot.com/-2YAZoAsaoyI/U8eJ7lUx5aI/AAAAAAAACPc/EUPdwzvOYEY/s1600/guakerep.jpg", "http://www.sintiaastarina.com/wp-content/uploads/2018/12/Menitipkan-Doa-di-Gua-Maria-Kerep-Ambarawa-Semarang-10.jpg", "https://i0.wp.com/www.jalanjajanhemat.com/wp-content/uploads/2016/12/Gua-Maria-Kerep-Ambarawa.jpg?fit=1024%2C683&ssl=1", "https://kuasakata.com/images/2021/02/04/Gua_Maria_Ambarawa.jpg", "https://infokatolik.id/wp-content/uploads/2019/07/gua-maria-kerep-ambarawa-2.png", "https://t-2.tstatic.net/jateng/foto/bank/images/pengunjung-berfoto-di-dekat-pintu-masuk-taman_20161128_151958.jpg", "https://www.sesawi.net/wp-content/uploads/2015/08/Gua-Kerep-Ambarawa-2.jpg", "https://upload.wikimedia.org/wikipedia/commons/f/f3/Gua_Maria_Kerep_Ambarawa.jpg", "https://1.bp.blogspot.com/-o9_bd3erPsI/VffRLRoG6QI/AAAAAAAAHxs/VcNIPKQX9dc/s1600/gua%2Bkerep%2B%252812%2529.JPG"],
+          "DESKRIPSI": "Gua Maria Kerep (Gua Maria Kerep Ambarawa, disinglkat GMKA), adalah sebuah tempat ziarah yang terletak di Jalan Tentara Pelajar, Kelurahan Panjang, Ambarawa. Tempat ini adalah tempat yang cukup baik untuk berdoa, berziarah, dan menyegarkan diri. Jaraknya sekitar 500 m dari Terminal Ambarawa. Karena jauh dari jalan raya, maka daerah ini cukup tenang. Dari tempat ini dapat terlihat pemandangan Gunung Telomoyo, Gunung Merbabu, dan Danau Rawa Pening. Gua Maria Kerep memiliki fasilitas bagi para peziarah, antara lain Jalan Salib, Tempat Doa Lesehan, Gereja, dan sebuah taman."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.254891804496749, 110.39912859137821]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 12,
+            "NAMA": "Goa Maria Rosa Mistika",
+            "ALAMAT": "Banyuurip, Desa Delik, Kecamatan Tuntang",
+            "KECAMATAN": "Tuntang",
+            "TELP": [null],
+            "FOTO": ["https://aureliaangelalobo.com/wp-content/uploads/2020/11/20161014_153405-1024x576.jpg", "https://www.sesawi.net/wp-content/uploads/2021/05/Gua-Maria-Rosa-Mistika-di-Tuntang.jpg", "http://3.bp.blogspot.com/-9eUxDjvslWw/VlK7fU0gy4I/AAAAAAAAJVw/JdH2LnO82rg/s1600/IMG_20151020_131501.jpg", "https://aureliaangelalobo.com/wp-content/uploads/2020/11/20201029_123600-scaled-e1605701830744.jpg", "https://lh3.googleusercontent.com/p/AF1QipNlyRb5gYWbkTIa2QNbkvWtlsYjQeOWhLPzlcSV", "http://www.sesawi.net/wp-content/uploads/2019/07/Gua-Maria-Misericordia-Sukomoro-Palembang-1-1024x484.jpg", "https://pbs.twimg.com/media/EVZtnczUEAASviE?format=jpg&name=4096x4096", "https://fastly.4sqi.net/img/general/500x500/6178772_46emMB96XsP3S3QAEY1Y-Jtl4Bk1ybqJG8l-qJcAalA.jpg"],
+            "DESKRIPSI": "Tempat Ziarah Sancta Rosa Mystica yang lebih lengkapnya adalah Tempat Ziarah Sancta Rosa Mystica Mater Divinae Gratiae atau juga biasa disebut Gua Maria Rosa Mystica merupakan tempat ziarah umat Katolik di Indonesia. Tempat ziarah ini mulai dibangun pada tahun 1999. Tempat ziarah religius ini tidak hanya dikunjungi umat Katolik, juga mereka yang menginginkan pemantapan iman dengan harapan mendapat berkah percaya diri untuk mengapai cita-cita. Salah satu tempat khasnya berupa Sendang Banyuurip atau lebih dikenal dengan nama Sendang Mawar Gaib. Air di sendang itu konon bisa menyembuhkan berbagai macam penyakit."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.248839601398728, 110.48180217788241]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 13,
+            "NAMA": "Bukit Cinta Rawa Pening",
+            "ALAMAT": "Desa Kebondowo Kecamatan Banyubiru, Kabupaten Semarang 50664",
+            "KECAMATAN": "Banyubiru",
+            "TELP": ["024-6921424", "081325376951 (Min)"],
+            "FOTO": ["https://asset.kompas.com/crops/ydHRr7p3Xty0dFzmcd4rnVBFdWk=/0x0:1200x800/750x500/data/photo/2020/09/06/5f54c7b7087d4.jpg", "https://asset.kompas.com/crops/IOeGBDD_9Q7Qm3wa85c4BYZfzpw=/0x493:960x1133/750x500/data/photo/2020/09/06/5f5494fe53d31.jpeg", "https://kataomed.com/wp-content/uploads/2020/08/Bukit-Cinta-Rawa-Pening-e1597342642490.jpg", "https://asset.kompas.com/crops/1BlZqeduG8F58FTKakb6ivrhGqA=/0x64:1280x918/750x500/data/photo/2020/09/06/5f54961d875b3.jpeg", "https://www.objektempatwisata.com/wp-content/uploads/2021/04/wisata-bukit-cinta-rawa-pening-ff33.jpg", "https://eppid.pu.go.id/assets/vendors/ckfinder/userfiles/images/WhatsApp%20Image%202021-01-12%20at%2011_48_59%20(1).jpeg", "https://1.bp.blogspot.com/-VNCgP6tkkAI/YRNxvEYnyaI/AAAAAAAAAHs/9ElVd5h3xSIYcAEhYEBx8HxWVvsmTD2SQCLcBGAsYHQ/w0/bukit-cinta-rawa-pening-semarang.jpg", "https://kataomed.com/wp-content/uploads/2020/08/Bukit-Cinta-Rawa-Pening-e1597342642490.jpg", "https://asset.kompas.com/crops/P_B4Q-hqXVdjgrUAPbhsU7sjdyM=/9x0:1275x844/750x500/data/photo/2021/01/10/5ffae408d7179.jpg", "https://asset.kompas.com/crops/n5_rkTgxW8_0YPCtIeqJCXAcIkk=/0x0:1280x853/750x500/data/photo/2020/09/06/5f549595e919c.jpeg", "https://asset.kompas.com/crops/IOeGBDD_9Q7Qm3wa85c4BYZfzpw=/0x493:960x1133/750x500/data/photo/2020/09/06/5f5494fe53d31.jpeg"],
+            "DESKRIPSI": "Tempat ini dikenal sebagai salah satu spot wisata selfie yang mengangkat konsep wisata alam di dalamnya. Panorama Danau Rawa Pening yang memesona menjadi daya tarik setiap orang yang berkunjung ke Kabupaten Semarang. Salah satu cara untuk dapat melihat lebih dekat Rawa Pening adalah dengan mengunjungi Bukit Cinta Rawa Pening. Semua wisatawan yang berkunjung dapat menikmati atraksi wisata yang disajikan seperti berfoto di spot selfie, duduk-duduk di taman atau pendopo estetik, hingga naik perahu berkeliling danau. Tak hanya itu, panorama danau yang berlatarkan barisan gunung dan bukit menambah indah lokasi Bukit Cinta Rawa Pening."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.305923592407191, 110.42236930707871]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 14,
+          "NAMA": "Pemandian Muncul",
+          "ALAMAT": "Jl. Raya Muncul Desa Rowoboni Kecamatan Banyubiru Kabupaten Semarang 50664",
+          "KECAMATAN": "Banyubiru",
+          "TELP": ["024-6921424", "085943159333 (Sri)"],
+          "FOTO": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ff/27/56/the-muncul-spring-pool.jpg?w=1200&h=1200&s=1", "https://www.pinhome.id/blog/wp-content/uploads/2019/04/muncul-waterpark-semarang.jpg", "https://www.pinhome.id/blog/wp-content/uploads/2021/10/m-1024x576.jpg", "https://lh3.googleusercontent.com/p/AF1QipNPQhOoCikjzYa6TC9t5boHmK2p2DmO8U4yDGrQ=w1080-h608-p-no-v0", "https://radarsemarang.jawapos.com/wp-content/uploads/2021/11/IMG_20211128_032540.jpg"],
+          "DESKRIPSI": "Yang istimewa dari pemandian ini karena airnya alami. Lokasinya juga mudah dijangkau Yaitu, di jalan alternatif Ambarawa sampai Salatiga. Tepatnya, di Desa Rowoboni, Kecamatan Banyubiru, Kabupaten Semarang, Jawa Tengah. Selain sebagai objek wisata pemandian, kawasan Pemandian Muncul juga dimanfaatkan sebagai area pembibitan dan pemancingan ikan, dengan panorama hamparan sawah dan sungai yang indah. Pemandian ini menawarkan empang renang, dengan air yang sangat bening. Air berasal dari dalam tanah yang terus mengalir tanpa henti. Menariknya, di tepi kolam renang, terdapat arca dan situs bersejarah. Objek wisata ini terkenal dengan nuansa sejuk dan nyaman dikunjungi. Pelancong tinggal pilih untuk berenang di kolam renang yang diinginkan. Sebab, di lokasi ini, tersedia sejumlah kolam renang yang tingkat kedalaman berbeda-beda. Aman bagi orangtua yang mengajak anak-anaknya berlibur, menikmati kolam air di sana."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.328300149543839, 110.44018322021702]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 15,
+            "NAMA": "The Fountain Water Park & Resto",
+            "ALAMAT": "Jl. Bima Sakti Raya No. 16A Lerep Kecamatan Ungaran Barat Kabupaten Semarang 50519",
+            "KECAMATAN": "Ungaran Barat",
+            "TELP": ["081215532975 (Mita)"],
+            "FOTO": ["https://2.bp.blogspot.com/-zGLrOJNkEVw/XAEVOqC9IiI/AAAAAAAABAM/-a5vuJ-_7A8br_mjh0mytAEhf2iq7FCLQCLcBGAs/s1600/jejak-kenzie_fountain-waterpark-ungaran-0002.jpg", "https://travelspromo.com/wp-content/uploads/2018/11/The-Fountain-Ungaran-Waterpark.jpg", "https://semarang101.files.wordpress.com/2011/06/kolam_renang_the_fountain_semarang.jpg", "https://assets.kompasiana.com/statics/crawl/556202f40423bdf30a8b4568.jpeg?t=o&v=770", "https://4.bp.blogspot.com/-b4x2Gvdhwyc/XAEfISQr3lI/AAAAAAAABBE/xptrrUu-b7wh_OUahoXywJ66PmiirIPgQCLcBGAs/s1600/jejak-kenzie_fountain-waterpark-ungaran-0001.jpg", "https://1.bp.blogspot.com/-HNiiPGlmnxo/VaIxs36cnYI/AAAAAAAAGeU/uwTowYWnf2c/s1600/The%2BFountain%2BUngaran5.jpg"],
+            "DESKRIPSI": "The Fountain merupakan sebuah perumahan di Ungaran Kab Semarang yang menawarkan wahana permainan air dan outbound arena dengan pemandangan dan kesejukan Gunung Ungaran, dilengkapi pula dengan Resto yang akan memanjakan lidah anda. Dengan desain Waterpark The Fountain sangat menarik, pengunjung dapat bermain di kolam renang maupun bersantai di tepi kolam. Terdapat empat kolam renang yang ada di waterpark sengaja didesain terpisah, dengan kedalaman yang berbeda. Ada yang 30 cm, 50 cm, 100 cm, dan 150 cm. Area outbond yang ditawarkan sangat menarik dengan berbagai macam permainan yang menantang, kita akan disuguhkan permainan-permainan yang mengasah otak kita dan mengajarkan kerjasama tim / team work yang akan meningkatkan semangat kebersamaan serta kekompakan. Tempat luas disertai satu bangunan joglo untuk berteduh, dilengkapi lapangan rumput yang hijau dan sarana penunjang lainnya serta udara yang sejuk."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.112076692503792, 110.39524616875175]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 16,
+          "NAMA": "Kolam Renang Tirto Argo (Siwarak)",
+          "ALAMAT": "Jl. Tirto Argo (Siwarak 22) Brangkah, Desa Nyatnyono Kecamatan Ungaran Barat Kabupaten Semarang 50551",
+          "KECAMATAN": "Ungaran Barat",
+          "TELP": ["08815892707 (Pak Te)"],
+          "FOTO": ["https://travelspromo.com/wp-content/uploads/2019/03/Kolam-Renang-dan-Wahana-Permainan-di-Tirto-Agung-Siwarak.-Foto-Gmap-Otniel-Kristanto.jpg", "http://4.bp.blogspot.com/-oSP-NDzEfww/UWp6eCmUXGI/AAAAAAAAI2w/HQuilzfVAuw/s1600/Kolam_renang_anak_siwarak.jpg", "https://2.bp.blogspot.com/-mHqvUvKz-40/Vj8KoL0_TWI/AAAAAAAAI58/mo5PSZ-4ji0/s1600/Kolam%2BRenang%2BSiwarak%2BUngaran1.jpg", "https://1.bp.blogspot.com/-7oJ_QmyuY_k/YMAXlkcAoyI/AAAAAAAAEN4/n-rqNcLl9JAwO5XGvnLKrffwq10IogP6QCLcBGAsYHQ/s644/Tirto-Argo-Siwarak.jpg", "http://3.bp.blogspot.com/-hE6MR4ukIro/UWp7Q4IsufI/AAAAAAAAI3I/BGID5s8CW3U/s1600/Pengunjung_berenang.jpg", "https://sanjayatour.com/wp-content/uploads/2020/02/Kolam-Renang-Tirto-Argo-Siwarak-Semarang-696x398.jpg"],
+          "DESKRIPSI": "Tirto Argo Siwarak merupakan wahana permainan air untuk anak berupa kolam renang yang bersumber dari mata air Gunung Ungaran, sehingga airnya jernih dan tidak berbau. Tirto Argo Siwarak memiliki empat zona kolam dengan kedalaman 30 cm, 60 cm, 1 m, hingga 3 meter. Kolam utama untuk remaja dan dewasa dilengkapi dengan perosotan meliuk yang cukup memacu adrenalin. Kolam renang Tirto Argo Siwarak tidak buka setiap hari, akan tetapi hanya buka di hari Senin, Kamis, Jumat, Sabtu, dan Minggu saja, dikarenakan dilakukan pembersihan kolam setiap hari Selasa dan Rabu. Sehingga tak heran kolam renang ini selalu terjaga kebersihannya."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.131877114780856, 110.39452836438899]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 17,
+            "NAMA": "Kolam Renang Bu Sri",
+            "ALAMAT": "Jl. Raya Ambarawa - Magelang No. 3 Krajan Atas, Gondoriyo, Kecamatan Jambu Kabupaten Semarang 50663",
+            "KECAMATAN": "Ambarawa",
+            "TELP": ["0298-591707"],
+            "FOTO": ["http://4.bp.blogspot.com/-DniSCeHZmGw/Vb4ScCPlTcI/AAAAAAAAAQQ/fLwasO_hF9Q/s1600/P_20150725_153655_HDR-resize.jpg", "https://i.ibb.co/Krjkx4L/2016-09-03-copy.jpg", "https://lh5.googleusercontent.com/p/AF1QipPv-2c8t0LylsNLCRs-ss50NWHH69f5de3MN-o_=w1080-k-no"],
+            "DESKRIPSI": "Kolam Renang Bu Sri memiliki kolam yang khas dengan tidak bau kaporit, berhawa sejuk dan cocok untuk rekreasi sekeluarga. Setelah direnovasi, Kolam Renang Bu Sri menjadi lebih baik dengan hadirnya warna-warni di sekeliling kolam. Ada dua jenis kolam dengan kolam anak-anak dan kolam renang dewasa. Suasana yang cukup santai dan hawa sejuk akan menambah kesegaran yang didapat."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.266895269643208, 110.3832371509012]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 18,
+            "NAMA": "Kolam Renang Bumi Lerep Indah",
+            "ALAMAT": "Jl. Pulanggeni V Desa Lerep Kecamatan Ungaran Barat Kabupaten Semarang 50519",
+            "KECAMATAN": "Ungaran Barat",
+            "TELP": [null],
+            "FOTO": ["https://www.hargatiket.net/wp-content/uploads/2020/02/wisata-ungaran.jpg", "https://www.jejakpiknik.com/wp-content/uploads/2019/11/Foto-by-instagram.comrizky_yanuary-630x380.jpg", "https://storage.googleapis.com/allindonesiatoursim/2017/12/97616886-bukit-lerep-indah.jpg"],
+            "DESKRIPSI": "BLI merupakan tempat wisata di Jawa Tengah yang menjadi bagian dari Kawasan yang nantinya akan di kembangkan menjadi suatu kawasan wisata terpadu yang diberi nama “Desa Wisata Lerep”. Di dalam kawasan BLI juga ada warung-warung kecil yang menyediakan makanan, minuman atau sekedar camilan. Dengan 3 kolam renang utama, BLI sangat cocok untuk belajar berenang, karena ketiga kolamnya terpisah dan tidak perlu takut tenggelam karena kedalaman kolam ada yang 1,5 m. Air kolam berasal dari sumber air Gunung Ungaran, selain segar airnya jernih dan juga cukup dingin. Di kawasan BLI (Bukit Lerep Indah) juga terdapat fasilitas penginapan, aula, sampai meeting room. Dan seandainya ingin ountbound, BLI juga menyediakan area semacam kebun yang cukup luas di belakang BLI."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.128656596767799, 110.38436157974262]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 19,
+          "NAMA": "Taman Wisata Kopeng",
+          "ALAMAT": "Jl. Raya Salatiga - Magelang KM 15, Kopeng, Kecamatan Getasan Kabupaten Semarang 50774",
+          "KECAMATAN": "Getasan",
+          "TELP": ["0298-318344", "081327402390 (Galuh)"],
+          "FOTO": ["https://asset.kompas.com/crops/_MGuuKH3BRvljUVmdnXiXnaOHVI=/0x0:780x520/750x500/data/photo/2019/03/11/1881865447.jpg", "https://cdn0-production-images-kly.akamaized.net/OpDpXrWbbL9m2HKlf9hBugvGQTg=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3338983/original/047020900_1609644831-_agendasolo.jpg", "https://imgx.sonora.id/crop/0x0:0x0/x/photo/2021/03/05/taman-wisata-kopengjpg-20210305035402.jpg", "https://sikidang.com/wp-content/uploads/Harga-Tiket-Masuk-Taman-Wisata-Kopeng.jpg", "https://www.itrip.id/wp-content/uploads/2020/10/Taman-Wisata-Kopeng.jpg", "https://1.bp.blogspot.com/-QhTj9cuJ7e0/YCe8pbW2iFI/AAAAAAAAM-g/5Lja_f530LoNxypUcfiT2q6s5ZnncKtDACLcBGAsYHQ/s700/Wisata%2BKopeng.png"],
+          "DESKRIPSI": "Wisata Kopeng Salatiga ini merupakan area rekreasi yang cocok untuk liburan keluarga atau instansi. Taman Wisata Kopeng memiliki fasilitas lengkap seperti Waterpark, Outbound Centre, Gardening 4,17 hektar, Playground, ATV, Family resort, Hall, VIP family karaoke, Fun Bilyard, Kaos corner, Resto dan Coffe Shop. Berpadu dengan suasana pegunungan yang sejuk, Taman Wisata Kopeng menarik dikunjungi bagi Anda yang ingin melepas penat."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.3980702156154505, 110.41937600855994]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 20,
+            "NAMA": "The Wujil",
+            "ALAMAT": "Jl. Soekarno - Hatta KM 25,5, Setiggen, Kelurahan Wujil Kecamatan Bergas Kabupaten Semarang 50552",
+            "KECAMATAN": "Ungaran Barat",
+            "TELP": ["024-76510707"],
+            "FOTO": ["https://4.bp.blogspot.com/-K_tSPIVdPH8/WZ4wt4x7aKI/AAAAAAAAC_M/gTwQ3_vbT0sIIgtJIsue921_yTTLAjUbQCLcBGAs/s1600/Screenshot_2017-08-24-08-41-07-1%255B1%255D.png", "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/nationalgeographic/201707071142475_b.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/0e/1d/1e/a7/the-wujil-resort-conventions.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/0f/3a/c5/7e/kolam-renang-yang-luas.jpg", "https://www.constructionplusasia.com/wp-content/uploads/2017/08/Gazebo-810x540.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/0d/b8/9d/2e/the-wujil-resort-conventions.jpg", "https://wedding.tauzia.com/TauziaWeddings/media/The_Wujil/Gallery%20Photo/DSC_0009.JPG?ext=.jpg", "https://www.constructionplusasia.com/wp-content/uploads/2017/08/agra.jpg", "https://cdn.1001malam.com/uploads/hotels/thewujilresortconventions_eksterior_1187415.jpg", "https://pix10.agoda.net/hotelImages/1293393/-1/225c0dcc8de1c73735a0e2345a605838.jpg?ca=7&ce=1&s=1024x768", "https://www.kopertraveler.id/wp-content/uploads/2017/06/35-1.jpg", "https://www.trivindo.com/data/upload/2019/01/the-wujil-resort-conventions-10.jpg", "https://www.bobocantik.com/wp-content/uploads/2017/08/Resto-Wujil-hotel-4-1024x683.jpg", "https://thewujilresorts.com/wp-content/uploads/2021/03/ROOM.jpg", "https://content.r9cdn.net/rimg/himg/87/d2/b8/hotelsdotcom-624106-34ef407b_w-978977.jpg?width=1200&height=630&crop=true","https://www.constructionplusasia.com/wp-content/uploads/2017/08/ballroom-810x540.jpg", "https://www.trivindo.com/data/upload/2019/01/the-wujil-resort-conventions-12.jpg", "https://thewujilresorts.com/wp-content/uploads/2016/04/RESTAURANT-HALL.jpg"],
+            "DESKRIPSI": "Wujil sendiri berasal dari istilah wijil yang berarti benih padi. Konsep benih padi tersebut direpresentasikan melalui fasad dan atap ballroom-nya yang didesain menyerupai daun dan bulir padi. The Wujil juga masih mempertahankan suasana alami nan asri dengan adanya taman terbuka, sawah, jogging track sepanjang 3 kilometer, air terjun sebagai poin tambahan hingga pembuatan danau buatan untuk resapan sebagai tempat nyaman yang selaras dengan alam. The Wujil merupakan satu-satunya resor terlengkap di kawasan ini, karena memiliki ballroom, jogging track, playground, di samping fasilitas utamanya sebagai hotel, convention center, serta restoran. Hotel ini tidak hanya diharapkan memenuhi akomodasi yang nyaman dan lengkap di wilayah Ungaran, tetapi juga desainnya diharapkan memberikan aksen yang berbeda sehingga menjadi ikon untuk kawasan ini."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.17331624584205, 110.41566430672108]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 21,
+          "NAMA": "Taman Kelinci",
+          "ALAMAT": "Jl. Raya Muncul - Salatiga, Kaliglagah, Kalibeji, Kec. Tuntang kabupaten Semarang 50773",
+          "KECAMATAN": "Banyubiru",
+          "TELP": ["085640534850 (Abu)", "081931988252"],
+          "FOTO": ["https://phoenixhillna.org/wp-content/uploads/2018/05/Taman-Kelinci-Salatiga.jpg", "https://www.datawisata.com/wp-content/uploads/2018/05/Taman-Kelinci-Tuntang.jpg", "https://www.itrip.id/wp-content/uploads/2021/01/Taman-Kelinci-Tuntang.jpg", "https://3.bp.blogspot.com/-SPEd349K_Is/XGJGQFa11BI/AAAAAAAA9lI/Iqh-kWUamGUEqUSGcIJdTAGFq8BLcLBQACLcBGAs/s1600/kolam%2Brenang%2Btaman%2Bkelinci%2Bsalatiga.jpg", "https://1.bp.blogspot.com/-AQhgfWw9yxU/VdE6YIfTwMI/AAAAAAAAHIs/_wo8c6fusUk/s1600/kolam%2Brenang%2Btaman%2Bkelinci.jpg", "https://www.datawisata.com/wp-content/uploads/2018/05/rabbit-park-Semarang.jpg"],
+          "DESKRIPSI": "Jika anda ingin wisata yang sejuk, aman, pemandangan yang indah dan juga mempunyai kelinci maka taman kelinci salatiga adalah tempat yang tepat. Taman kelinci salatiga ini mempunyai banyak sekali wahana untuk anak kecil maupun untuk dewasa dan jika anda ingin datang rombongan taman kelinci salatiga ini menyediakan paket. Untuk paket kategori anak anda akan disediakan outbond untuk khusus anak, makan, dan wahana untuk anak seperti memanen, memerah susu, dan juga melihat proses pembuatan gula kelapa."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.219383848748395, 110.41438527739402]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 22,
+            "NAMA": "TM. Rekreasi Langen Tirto",
+            "ALAMAT": "Jl. Raya Muncul Desa Rowoboni Kecamatan Banyubiru Kabupaten Semarang 50664",
+            "KECAMATAN": "Banyubiru",
+            "TELP": ["0298-5992999"],
+            "FOTO": ["http://2.bp.blogspot.com/-Bu8YYiCqqr0/VL58yqWqRqI/AAAAAAAABng/8v7DQTnN5_I/s1600/Sirkuit%2BMobil%2BATV.jpg", "http://4.bp.blogspot.com/-kpbfw0qiiXc/VL6AzrggSEI/AAAAAAAABn8/ZsCfSaTbtpg/s1600/Kolam%2BPemancingan%2BLangen%2BTirto%2BMuncul.jpg", "http://1.bp.blogspot.com/-8Zc6pHPa44M/VL6CX4TjG-I/AAAAAAAABoc/oqf-zAAjxl4/s1600/Desain%2BUnik%2BPepohonan%2B2.jpg", "http://2.bp.blogspot.com/-oo-YKrGH9UU/VL6BRwuNmXI/AAAAAAAABoI/qiPzQ65XHXU/s1600/Sepeda%2BAir%2BLangen%2BTito%2BMuncul.jpg"],
+            "DESKRIPSI": "Taman Ria Langen Tirto Muncul merupakan taman rekreasi yang terletak di sebelah selatan pemancingan muncul. Terdapat beberapa atraksi wisata seperti taman bermain anak, kolam renang, kolam pemancingan, dan kebun binatang mini dengan beberapa koleksi binatangnya."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.328958232282872, 110.4436747662414]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 23,
+            "NAMA": "New Bandungan Indah Divaland",
+            "ALAMAT": "Jl. Beringin Raya, Krajan, Desa Jetis Kecamatan Bandungan Kabupaten Semarang 50614",
+            "KECAMATAN": "Bandungan",
+            "TELP": ["0298-711078", "081904478182 (Bije)"],
+            "FOTO": ["https://travelspromo.com/wp-content/uploads/2018/11/New-Bandungan-Indah.jpg", "https://travelspromo.com/wp-content/uploads/2018/11/New-Bandungan-Indah.jpg", "https://travelspromo.com/wp-content/uploads/2018/11/wahana-permainan-outbond-di-taman-new-bandungan-indah-waerpark-640x360.jpg", "https://1.bp.blogspot.com/-ysehqs1mDtA/V7mcxO5i87I/AAAAAAAAEKg/NdIf9EXD2ykGh1NCSB3XHh1WLLphQ2wuwCLcB/s1600/New%2BBandungan%2BIndah%2BWaterpark%2B%2526%2BFamily%2BResort%2B%2528Small%2529.JPG"],
+            "DESKRIPSI": "Taman wisata dan resort Waterpark New Bandungan Indah (NBI) ini merupakan taman wisata keluarga yang dibangun dilahan seluas 3 hektar dan diketingian kurang lebih 938 meter diatas permukaan air laut. Fasilitas umum seperti toilet, kamar ganti, tempat ibadah, parkir luas, Café & live music, Resort / Villa, Gedung pertemuan dan lainnya sudah tersedia dengan baik  di wisata ini. Wahananya pun tak kalah seru dengan waterpark terkenal seperti jogjabay, pandawa solo, maupun kenjeran surabaya. Adapun wahana di Waterpark Bandungan antara lain :  Waterpark, Taman bermain, Kuda wisata, Kid castle, Jembatan goyang, Mini train, Otoped, ATV, Kapal arus, Taman refleksi, Terapi ikan, pemancingan dan masih banyak lagi."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.221685072507008, 110.36805569507825]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 24,
+          "NAMA": "Eling Bening",
+          "ALAMAT": "Jl. Jend. M. Sarbini Bawen Kabupaten Semarang Jawa Tengah 50661",
+          "KECAMATAN": "Bawen",
+          "TELP": ["085729565656 Ratih", "085641442217"],
+          "FOTO": ["https://4.bp.blogspot.com/-6Z3AxOLCpEo/XNK70UfPkZI/AAAAAAAABv0/9GznKqppKvIqHwcUzar036Eum-yeOhbSgCLcBGAs/s1600/46977223_1940048782957058_4263357966728648469_n-min.jpg", "https://asaljeplak.my.id/berita/storage/sites/2/2021/12/Harga-Tiket-Eling-Bening.jpg", "https://backpackerjakarta.com/wp-content/uploads/2018/02/eling-bening-ambarawa.jpg", "https://cdnt.orami.co.id/unsafe/468x429/cdn-cas.orami.co.id/parenting/images/1_4ZRY10m.width-800.jpg", "https://jejakpiknik.com/wp-content/uploads/2019/05/eling-bening-buka-atau-tutup.jpg", "https://momokiro.com/wp-content/uploads/2019/09/Tiket-Masuk-Eling-Bening-1024x683.jpg", "https://www.bobobox.co.id/blog/wp-content/uploads/2019/09/eling-bening-2-450x300.jpg", "https://1.bp.blogspot.com/-5VvdiEvaiD8/V9t2mvTN-RI/AAAAAAAAFwQ/ThAq-d_lOTQqLFg9mUkZTGOJk1ev-WUnACLcB/s1600/suasana%2Bdi%2Beling%2Bbening.jpg", "https://www.datawisata.com/wp-content/uploads/2018/07/Eling-Bening-Ambarawa-1024x536.jpg", "https://www.goodnewsfromindonesia.id/uploads/post/large-eling-bening-0d3d2267c3fc628f2905ece18c301a33.jpg"],
+          "DESKRIPSI": "Eling Bening menawarkan pemandangan alam yang memang sangat memukau, deretan 8 pegunungan dengan hamparan sawah dan danau dikakinya membuat pemandangan di Eling Bening semakin cantik. Wisata Eling Bening memiliki konsep modern resort dengan berbagai fasilitas yang lengkap. Sangat cocok untuk dijadikan tempat rekreasi bersama keluarga, tempat meeting dan gathering, prewedding dan wedding party. Banyak juga pengunjung yang datang ke Eling Bening hanya untuk menikmati pemandangan alamnya atau sekedar jalan-jalan untuk mencari spot indah untuk berfoto."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.252131075387821, 110.42486779137288]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 25,
+            "NAMA": "Tlogo Resort & Goa Rong View",
+            "ALAMAT": "Jl. Raya Tuntang - Bringin KM 2, Delik, Kecamatan Tuntang Kabupaten Semarang 50773",
+            "KECAMATAN": "Tuntang",
+            "TELP": ["0298-340111", "085727274242 (Wanda)"],
+            "FOTO": ["https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/10008168-3370x2247-FIT_AND_TRIM-f5d96e9263e01ec69e5fd76436ad0c62.jpeg?tr=q-40,c-at_max,w-740,h-500&_src=imagekit", "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/10008168-3370x2247-FIT_AND_TRIM-ddf47ba2947edb8eb9cacd44991af95b.jpeg?tr=q-40,c-at_max,w-740,h-500&_src=imagekit", "http://i1.wp.com/penginapan.net/wp-content/uploads/Tlogo-Resort-Goa-Rong-View...jpg?resize=460%2C300&ssl=1", "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/29/be26eb05-29fe-4269-b2ce-1f9e0a534056-1603920960805-7a16873799135fef1f91a579537e0eec.jpg", "https://ak-d.tripcdn.com/images/220g180000014an9j5A37_Z_550_412_R5_Q70_D.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUNyAYLMmsM2-w9E9h0Yg9yy9jP6coa44tg&usqp=CAU"],
+            "DESKRIPSI": "Tlogo Resort & Goa Rong View menawarkan penginapan yang menenangkan dengan sarapan gratis dan dikelilingi oleh pemandangan hijau. Resor ini menyediakan restoran dan kolam renang outdoor, lengkap dengan kolam renang anak-anak. Anda akan disuguhi dengan kamar berdesain klasik, didekorasi dengan lantai keramik dan perabotan berbahan kayu. Restoran di resor menyajikan berbagai menu lokal. Resor ini juga menyediakan paket wisata ke Goa Rong View untuk menikmati pemandangan perkotaan dari atas bukit. Di sana, terdapat area outbound, serta fasilitas flying fox, arena paintball, dan trek sepeda."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.265722924983185, 110.47007006254339]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 26,
+          "NAMA": "Agro Wisata Pasanggrahan Watu Gunung",
+          "ALAMAT": "Jl. Srikandi raya No. 1 Desa Lerep Kecamatan Ungaran Barat Kabupaten Semarang",
+          "KECAMATAN": "Ungaran Barat",
+          "TELP": ["085225544444 (Eri)"],
+          "FOTO": ["https://travelspromo.com/wp-content/uploads/2019/05/Objek-Wisata-Watu-Gunung.-Foto-Gmap-Reno-G.-Putra-e1559548047729.jpg", "https://cdn-2.tstatic.net/travel/foto/bank/images/watu-gunung-ungaran-semarang-gambar.jpg", "https://www.jejakpiknik.com/wp-content/uploads/2017/10/@asatuid-630x380.jpg", "https://wisatabagus.com/wp-content/uploads/2020/03/Watu-Gunung-Ungaran.jpg", "https://lh3.googleusercontent.com/10eSxv8eUpUAgOzqUAuJ7rD2w_jDHfoHPQA6JqwsSi6XD6FEtetFWXT0jT6ryb2J4eL1OYq95TdPQTiENVaNji5W5FkzM2SEfgzRfsJTNN2MH9hVYkEN4_2JeYzLprkVn4UciA3e2eWojbNiPg"],
+          "DESKRIPSI": "Watu Gunung Ungaran menawarkan wisata alam dan air yang menawan dipadukan dengan nuansa adat jawa yang khas. Gemercik air mewarnai suasana di objek wisata Watu Gunung Ungaran. Kita juga dapat melihat kolam air yang jernis berwarna kebiruan dan danau buatan yang membuat objek wisata tampak lebih asri. Watu Gunung Ungaran menawarkan wisata alam dengan nuansa khas Jawa karena beberapa bangunan joglo ada di objek wisata ini, bangunan joglo dilengkapi pernak-pernik etnik wayang. Suasana jawa perdesaan sudah sangat jarang ditemui apalagi bangunan joglo berdiri disetiap sudut objek wisata yang seluas 3,5 hektar ini. Ditengah- tengah lokasi wisata terdapat danau buatan yang cukup luas. Luasnya sekitar 60 meter dengan kedalaman 2 meter. Selain itu wisata ini menawarkan gedung maupun area outdoor yang dapat disewa oleh pengunjung."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.129567067745759, 110.3888695508998]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 27,
+            "NAMA": "Hills Joglo Villa",
+            "ALAMAT": "RT 06 RW 01 Mapagan, Desa Keji, Kecamatan Ungaran Barat Kabupaten Semarang",
+            "KECAMATAN": "Ungaran Barat",
+            "TELP": ["024-6926101"],
+            "FOTO": ["https://pix10.agoda.net/hotelImages/276/276999/276999_14052811060019602925.jpg?s=1024x768", "https://origin.pegipegi.com/jalan/images/pict1L/Y2/Y910712/Y910712016.jpg", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/157390129.jpg?k=ccf2ccda728abeb61f3657f46dfca974bc8056345d0bb4a7c9f90985dfd49202&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158311360.jpg?k=3a635a55b84fb1685eab3508fc9d53f579ccb965dee47f18b062c84f881dde25&o=&hp=1", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158312740.jpg?k=8e86990017e98d514ca802a94f44a82197961fd41e628388ade9f6b4830f7a17&o=&hp=1", "https://semarang101.files.wordpress.com/2011/08/rumah_joglo_jawa_di_tengah_persawahan.jpg", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158311656.jpg?k=7ff5e3ea651dd069a044b45ff351f1a12701e0894f0f839015a67f45399dcdda&o=&hp=1"],
+            "DESKRIPSI": "Hills Joglo Villa terletak di Jawa Tengah, di kaki Gunung Ungaran. Dikelilingi oleh sawah dan taman lanskap, properti ini menawarkan akomodasi bergaya tradisional Jawa dan kolam renang outdoor. Rumah-tumah kayu yang antik di Joglo Villa berusia hingga 350 tahun dan menawarkan perabotan tradisional yang elegan. Masing-masing dilengkapi dengan pemutar DVD dan TV satelit. Pembuat kopi dan minibar juga tersedia. Kamar-kamar tertentu memiliki fasilitas dapur. Anda dapat memanfaatkan Wi-Fi gratis di area-area umum atau berolahraga di pusat kebugaran dan lapangan badminton. Joglo Hills Villa juga menyediakan meja layanan wisata dan kolam pancing kecil. Makanan Jawa, Cina, dan Barat disajikan di restoran galeri seni milik hotel. Alternatif lain, tersedia layanan bersantap dalam kamar atau bersantap di kebun."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.114507059880418, 110.39407977972381]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 28,
+            "NAMA": "Agro Wisata Hortimart",
+            "ALAMAT": "Jl. Gatot Subroto No. 55 Bawen Kabupaten Semarang 50661",
+            "KECAMATAN": "Bawen",
+            "TELP": ["0298-5200025", "08156689119"],
+            "FOTO": ["https://1.bp.blogspot.com/-gLTSC49cyvM/XZfNbkvLJTI/AAAAAAAAFYI/ejPHLv3poEkICwPwNlrO0qIzA-GsiC1XQCLcBGAsYHQ/s1600/Hortimart-wisata-bawen.jpg", "https://cdn.idntimes.com/content-images/post/20190722/60839988-175794050089491-6533320667734802463-n-227ee3227aeb101a46d16ee5fd2430f6-567e1802605f57319adf3bd188e0defd_600x400.jpg", "https://www.agronet.co.id//files/media/video/170910001619-210.jpg", "https://2.bp.blogspot.com/-y_sW_Bvggao/VWUSZIJrHVI/AAAAAAAAFwg/YrnPVoWHfEc/s1600/Playground%2BHortimart.jpg"],
+            "DESKRIPSI": "Mlanya Hortimart diperuntukkan sebagai lokasi pembudidayaan buah lokal, akhirnya dibuka untuk umum sebagai salah satu pusat agrowisata. kebun buah tersebut bisa Anda kunjungi menggunakan mobil lucu berwarna oranye. Sepanjang tour mengelilingi kebun, supir yang merangkap sebagai guide bakal menjelaskan sejarah dan informasi menarik seputar kebun Hortimart. Serunya, pada musim panen buah, Anda bisa turun ke kawasan kebun untuk menjajal petik buah-buahan lokal yang ada di kebun tersebut seperti buah jeruk, melon, mangga, durian, sirsat, buah naga, kelengkeng, dan masih banyak lagi. Selain itu, ada Agro Store yang menyediakan berbagai hasil kebun Hortimart dan Hortimart Agro Resto yag menyediakan berbagai kuliner. Sebagai oleh-oleh, tambulampot (tanaman buah dalam pot), benih tanaman, pupuk, pestisida, dan aneka perlengkapan perkebunan di Agro Supply dapat dijadikan pilihan."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.236436950556652, 110.43123036438537]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 29,
+          "NAMA": "Balemong Resort (Melva Balemong)",
+          "ALAMAT": "Jl. Pattimura No. 1 B Krajan Ungaran Kecamatan Ungaran Barat Kabupaten Semarang 50511",
+          "KECAMATAN": "Ungaran Barat",
+          "TELP": ["0811822442", "081326513786 (Yitno)"],
+          "FOTO": ["https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/22/02/2202010_v3.jpeg", "https://origin.pegipegi.com/jalan/images/pict1L/Y8/Y952828/X952828001.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/0d/c1/42/5d/swimming-pool.jpg", "https://3.bp.blogspot.com/-m8LpkjK5-Nk/WPlLbHxoN8I/AAAAAAAALHg/iaAU6HFI1yg1ZysoiGsVJH1JO1X7BT3UQCLcB/s1600/balemong-26.JPG", "https://phinemo.com/wp-content/uploads/2018/07/balemong-resort-semarang2.jpg", "https://ak-d.tripcdn.com/images/220g1a0000019qji709C6_R_800_525.jpg", "https://www.bobocantik.com/wp-content/uploads/2019/03/DSC01217-1024x683.jpg"],
+          "DESKRIPSI": "Balemong Resort terletak di tengah taman tropis serta menampilkan dekorasi bergaya Jawa dan Belanda yang menawan. Resor ini menawarkan restoran, meja layanan wisata, dan Wi-Fi gratis di area umumnya. Kamar-kamar sepenuhnya ber-AC dan memiliki TV layar datar, kamar mandi en-suite, dan teras pribadi yang menawarkan pemandangan taman. Minibar, perlengkapan mandi gratis, dan pengering rambut disediakan untuk kenyamanan Anda. Resor berjarak hanya 5 menit berkendara dari Pasar Tradisional Ungaran dan 45 menit berkendara dari Candi Gedong Songo. Dibutuhkan 1 jam naik mobil dari resor menuju Bandara Internasional Ahmad Yani. Anda dapat memanfaatkan fasilitas penyewaan mobil dan sepeda untuk menjelajahi wilayah sekitarnya. Meja layanan wisata Balemong Resort dapat mengatur kunjungan ke berbagai tempat wisata setempat. Sasana Kembul Bujana Restaurant menyajikan masakan Indonesia dan Eropa. Restoran ini menyediakan sarapan dalam layanan kamarnya."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.117705692356665, 110.40264072205795]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 30,
+            "NAMA": "Susan SPA and Resort",
+            "ALAMAT": "Jl. Gintungan Utara, Piyoto, Desa Jetis, Kecamatan Bandungan Kabupaten Semarang",
+            "KECAMATAN": "Bandungan",
+            "TELP": ["0298-711766", "081901012217 (Pina)"],
+            "FOTO": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/37/27/58/la-kana-chapel.jpg?w=900&h=-1&s=1", "https://jejakpiknik.com/wp-content/uploads/2017/10/@susansparesort.jpg", "https://susan-spa.lcpd.my.id/data/1599715926.jpg", "https://cdn.1001malam.com/uploads/hotels/susansparesort_tampilanbedroomhotel_1267362.jpg", "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2001932886546/Susan%2520Spa%2520%2526%2520Resort-42369816-521e-4f71-9723-151625e283b2.jpeg?_src=imagekit&tr=c-at_max,h-512,q-60,w-720", "https://www.trivindo.com/data/upload/2016/12/susan-spa-resort-la-kana-4.jpg"],
+            "DESKRIPSI": "Keindahan alam dan arsitektur bangunan Susan Spa Resort menjadi daya tarik utama yang berhasil menarik banyak pengunjung datang. La Kana Chapel menjadi ikon dari Susan Spa Resort berkat keindahan arsitektur dan pemandangan yang ditawarkan. Pemandangan indah Susan Spa Resort juga bisa Anda nikmati sambil bersantai di Sky Garden Cafe. Cafe dengan konsep modern alami ini menawarkan pemandangan di atas awan kaki gunung Ungaran. Fasilitas yang juga bisa Anda gunakan saat berkunjung ke Susan Spa Resort ini adalah kolam renang resort yang terbuka untuk umum. Kolam renang ini memiliki keunikan dimana air nya bisa diatur menjadi air hangat. Terdapat beberapa pilihan tipe kamar yang tersedia seperti family room, guest house, superior, deluxe, suite, grand suite, dan presidential room. Terdapat banyak pilihan jenis spa yang bisa Anda pilih untuk menghilangkan lelah setelah lama beraktivitas seperti tradisional, thai, atau Bali."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.2154876181608785, 110.3642671778886]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 31,
+          "NAMA": "Umbul Sidomukti",
+          "ALAMAT": "Desa Sidomukti Kecamatan Bandungan Kabupaten Semarang 50661",
+          "KECAMATAN": "Bandungan",
+          "TELP": ["0298-713700910", "08112935646"],
+          "FOTO": ["https://travelspromo.com/wp-content/uploads/2019/07/Kolam-Renang-Alami-Umbul-Sidomukti-emilya-suryantina.jpg", "https://img.inews.co.id/media/822/files/inews_new/2019/04/27/sidomukti1.jpg", "https://sikidang.com/wp-content/uploads/Umbul-Sidomukti.jpg", "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/bda79d5a-1dbe-4c72-94f1-fe8b838f4052-1604155960836-84eacd69b55fad07d1b987db4b1a6d75.jpg", "https://i0.wp.com/hargaticket.com/wp-content/uploads/2020/03/pondokkopi.jpg?fit=600%2C447&ssl=1"],
+          "DESKRIPSI": "Umbul Sidomukti wisata alam yang terletak di lereng Gunung Ungaran, Semarang. Destinasi wisata yang berada di kawasan Bandungan ini memiliki hawa yang dingin dan udara yang segar. Dengan kompleks area wisata yang memiliki luas sekitar 32 hektar serta berada pada ketinggian 1.200 mdpl. Pesona utama destinasi wisata ini terletak pada kolam renang dari mata air alami yang airnya dingin dan segar. Di sini wisatawan dapat melakukan beragam aktivitas diantaranya berenang, dan outbond sambil menikmati pemandangan alam. Selain itu kawasan wisata ini juga menyediakan penginapan, camping ground, dan fasilitas gathering di dalam areanya."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.192459016026804, 110.3732954930959]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 32,
+            "NAMA": "Kampoeng Kopi Banaran",
+            "ALAMAT": "Jl. Raya Semarang - Bawen KM 1,5 Desa Asinan Kecamatan Bawen Kabupaten Semarang 50661",
+            "KECAMATAN": "Bawen",
+            "TELP": ["082227990093 Sandy", "082221444345"],
+            "FOTO": ["https://i1.wp.com/penginapan.net/wp-content/uploads/kampoeng-kopi-banaran.jpg?resize=460%2C300&ssl=1", "https://asset.kompas.com/crops/EQRjhFQ9UgwSXa-wJhIvR0ovItA=/0x0:0x0/750x500/data/photo/2021/04/01/60659fe5bbfaf.jpg", "https://www.agronet.co.id//files/media/video/180610224422-913.jpg", "https://assets.promediateknologi.com/crop/0x0:0x0/750x500/photo/suaramerdeka/images/2019/04/06/kereta-wisata-kampoeng-kopi-banaran-5ca865f57d905.jpg"],
+            "DESKRIPSI": "Keberadaan Kampoeng Kopi Banaran berawal dari kawasan perkebunan yang dikelola oleh PT Perkebunan Nusantara IX (Persero). Berada di ketinggian 480 hingga 600 mdpl, kawasan wisata ini merupakan area perkebunan kopi yang sudah ada sejak dulu. Fasilitas umum lainnya adalah lahan parkir gratis, mushola, restoran, coffee house, minimarket, toilet, gedung dan ruang pertemuan, lapangan tenis dan kolam renang, hingga tempat spa. Pilihan penginapan yang tersedia terdiri dari hotel, villa, dan area berkemah. Kebun yang tersedia sebagai tempat wisata adalah kebun kopi, kebun karet, kebun kakao, dan kebun buah. Transportasi yang tersedia untuk berkeliling adalah kereta wisata dan golf car. Aktivitas luar ruangan antara lain outbond, wisata berkuda, ATV, panahan, dan paint ball. Di samping itu, terdapat beragam area bermain anak yang dilengkapi aneka wahana menarik."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.2536716761746725, 110.4414899355493]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 33,
+            "NAMA": "Kopeng Tree Top Adventure Park",
+            "ALAMAT": "Jl. Kopeng - Batur Kecamatan Getasan Kabupaten Semarang",
+            "KECAMATAN": "Getasan",
+            "TELP": ["024-8316800", "088233058961"],
+            "FOTO": ["https://www.liburananak.com/images/holiday_spots/image_5a811d9877f14_liburananak_kopengtreetopadventurepark_(1)big.jpg", "https://sikidang.com/wp-content/uploads/Kopeng-Treetop-Adventure-Park-Salatiga.jpg", "https://cdn-2.tstatic.net/travel/foto/bank/images/kopeng-treetop11.jpg", "https://2.bp.blogspot.com/-gUUxK2EzgWs/Wg6J4-dCtyI/AAAAAAAAAnA/HjLQzNvcHRsloswLdXOlrUWYwCqG9lFOgCEwYBhgL/s1600/Lokasi%2Bdan%2BRute%2BKopeng%2BTreetop%2BAdventure%2BSemarang%2BJawa%2BTengah.png", "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000620106449/Kopeng%2520Tree%2520Top%2520Adventure%2520Park%2520Tickets-899c4e55-7522-483a-8e7b-c502087c506f.jpeg?_src=imagekit&tr=c-at_max,h-512,q-60,w-720", "https://penginapan.net/wp-content/uploads/Kopeng-Treetop-Adventure-Park.jpg", "https://piknikasik.com/wp-content/uploads/2018/09/kopeng-tree-top.jpg"],
+            "DESKRIPSI": "Kopeng Treetop Adventure Park merupakan wisata alam yang dilengkapi fasilitas outbound dan glamping. Di sana Anda bisa menikmati udara sejuk pegunungan sambil mencoba aneka wahana permainan seru dan menantang. Wisata petualangan yang bisa dinikmati di Kopeng Treetop Adventure Park mulai dari outbond di alam bebas, ATV, dan terbaru ada wahana Skiban. Masing-masing wahana permainan di Kopeng Treetop Adventure Park bisa dinikmati mulai dari anak-anak hingga dewasa. Kopeng Treetop Adventure Parkjuga  menyediakan penginapan yang nyaman dengan beragam pilihan fasilitas. Mulai dari camping tenda hingga glamping, semua ada di Kopeng Treetop Adventure Park. Fasilitas camping di Kopeng Treetop Adventure Park di antaranya Star Camp, Family Camp, dan Glamping Camp."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.383632709197928, 110.42572240212476]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 34,
+          "NAMA": "Cimory on The Valley",
+          "ALAMAT": "Jl. Soekarno - Hatta KM 30, Kecamatan Bergas Kabupaten Semarang",
+          "KECAMATAN": "Bergas",
+          "TELP": ["024-6921818", "082137406688"],
+          "FOTO": ["https://cdn-2.tstatic.net/travel/foto/bank/images/cimory-on-the-valley-semarang-4.jpg", "http://assets.kompasiana.com/items/album/2018/12/09/171695-5c0d414c6ddcae54f572f1c4.jpg", "https://salsawisata.b-cdn.net/wp-content/uploads/2021/09/Cimory-Ungaran.jpg", "https://1.bp.blogspot.com/-AC4xKDMhY7E/XezqeXtKo7I/AAAAAAAAEQw/bqy2m0duEiEDaftjPdckf1ctM1_tj1CjgCLcBGAsYHQ/s1600/tiket-masuk-dan-jam-buka-cimory-on-the-valley-semarang.jpg", "https://cdn-2.tstatic.net/travel/foto/bank/images/wisatawan-cimory-on-the-valley-semarang.jpg"],
+          "DESKRIPSI": "Cimory On The Valley adalah salah satu tempat wisata populer di Ungaran, Jawa Tengah yang cocok untuk dikunjungi bersama keluarga. Di lokasi ini wisatawan tidak hanya bisa menikmati kuliner di restoran yang menawarkan berbagai makanan dan minuman dari olahan susu Cimory, namun bisa juga mengunjungi wisata edukasi yang disediakan oleh pengelola. Di tempat ini wisatawan bisa mengunjungi wisata edukasi seperti melihat area factory dan melihat peternakan sapi atau berkeliling bersama Cimory Dairy Tour. Wisatawan juga bisa berfoto bersama dengan hewan-hewan jinak Dairyland Mini Zoo, atau berfoto di Taman Miniatur Dunia Minimania. Setelah lelah berkeliling, wisatawan bisa menikmati makanan di restoran atau berbelanja produk susu sebagai oleh-oleh."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.206641340486862, 110.42430527787842]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 35,
+            "NAMA": "PT. Coca Cola Amatil Unit Semarang",
+            "ALAMAT": "Kelurahan Harjosari Kecamatan Bawen Kabupaten Semarang",
+            "KECAMATAN": "Bawen",
+            "TELP": [null],
+            "FOTO": ["https://lh3.googleusercontent.com/p/AF1QipN4c2YF1Scq54NPCEAhtnEzQpzDyM2qQ1A5xuYn=s1600-w400", "https://4.bp.blogspot.com/-k7p6VX4at8E/Wdy1S14Gf0I/AAAAAAAAAGg/Y3iEbIia4Dw-wt-jNz6NvmCV3DlLjPBSwCLcBGAs/s1600/coca.JPG", "https://nusakini.com/upload/image/media/oqYmsodiJJ_1489057244.jpg"],
+            "DESKRIPSI": "Coca-Cola Amatil (CCA) merupakan produsen dan distributor minuman non-alkohol siap minum terkemuka. CCA memproduksi dan mendistribusikan produk di bawah lisensi The Coca-Cola Company. Disini wisatawan dapat berkunjung untuk melihat bagaimana proses pembuatan minuman tersebut maupun membeli hasil produk jadi dari Coca Cola."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.211816047318029, 110.42331366438746]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 36,
+          "NAMA": "PT. Kanasritex",
+          "ALAMAT": "Jl. Raya Candirejo Desa Pringapus Kecamatan Pringapus",
+          "KECAMATAN": "Pringapus",
+          "TELP": ["(024) 6923148"],
+          "FOTO": ["https://pbs.twimg.com/media/Djy9vclUYAExQJm.jpg", "https://www.dsu.co.id/images/gallery/nst/101.jpg", "https://www.dsu.co.id/images/gallery/nst/96.jpg", "https://www.dsu.co.id/images/gallery/nst/106.jpg", "https://www.dsu.co.id/images/gallery/nst/97.jpg"],
+          "DESKRIPSI": "PT. Kanasritex  menawarkan fasilitas paling canggih untuk pembuatan handuk berkualitas tinggi di dunia saat ini. Dengan menggabungkan teknologi Jerman terbaru dengan bahan baku halus, PT. Kanasritex menghasilkan handuk yang telah menetapkan standar kualitas baru. Disini wisatawan dapat berkunjung untuk melihat bagaimana proses pembuatan handuk maupun membeli hasil produk handuk yang telah jadi."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.186147152900171, 110.46627703555849]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 37,
+            "NAMA": "PT. BatamTex",
+            "ALAMAT": "Jl. Jend. Sudirman No. 59 Babadan, Kecamatan Ungaran Timur Kabupaten Semarang 50519",
+            "KECAMATAN": "Ungaran Timur",
+            "TELP": [null],
+            "FOTO": ["http://3.bp.blogspot.com/-PdS2mqTtz6E/Vo4hO9zoTWI/AAAAAAAAA4k/VRVW1f_vyf4/w1200-h630-p-k-no-nu/ilowongankerja7ptbatamtex.png", "https://asset.kompas.com/crops/EO46kiiDyG9qZYFusDuUf9Exkaw=/0x0:0x0/750x500/data/photo/2014/10/28/220752320141028-1153151p.jpg", "https://cdn.antaranews.com/cache/800x533/2016/11/20161103103155batamtex.jpg"],
+            "DESKRIPSI": "PT. Batam Textile Industry adalah sebuah perusahaan yang bergerak di bidang tekstil yang terletak di Ungaran, Kab. Semarang, broperasi sejak tahun 1974 dengan hasil produksi berupa benang, kain grey, dan kain denim."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.161000498650846, 110.41272611533994]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 38,
+            "NAMA": "PT. Jamu Sido Muncul",
+            "ALAMAT": "Bergas",
+            "KECAMATAN": "Bergas",
+            "TELP": [null],
+            "FOTO": ["https://joss.co.id/data/uploads/2019/03/Sidomuncul.jpg", "https://awsimages.detik.net.id/community/media/visual/2018/12/07/137c9dc9-c767-45f7-86b8-dc8d6238b59f.jpeg?w=700&q=90", "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/Sidomuncul_Pabrik.jpg"],
+            "DESKRIPSI": "Sido Muncul (SIDO) adalah produsen jamu terbesar dan termodern di Indonesia dengan pangsa pasar terbesar untuk kategori produk jamu tradisional. Sido Muncul (SIDO) memiliki lebih dari 300 jenis produk yang sangat akrab dan dekat dengan konsumen Indonesia. Tolak Angin dan Kuku Bima Ener-G! Adalah salah satu produk unggulan Sido Muncul (SIDO) yang telah banyak dikenal selama puluhan tahun."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.193848839200953, 110.4304934421975]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 39,
+          "NAMA": "PT. Nyonya Meneer",
+          "ALAMAT": "Bergas",
+          "KECAMATAN": "Bergas",
+          "TELP": [null],
+          "FOTO": ["https://cdn1.katadata.co.id/media/images/thumb/2017/08/09/2017_08_09-20_19_00_664265062f09b60ba721a80afd7612ad_620x413_thumb.jpg", "http://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/D6C31F70BA624816BCABCBE1E9ED72F9/meneer.jpg", "https://tampang.com/penulis/ckimages/Pabrik-jamu.jpg"],
+          "DESKRIPSI": "Jamu Cap Potret Nyonya Meneer atau PT Nyonya Meneer adalah perusahaan yang memproduksi jamu tradisional Jawa yang dipelopori oleh Nyonya Meneer. Ia menggunakan keahliannya mengobati berbagai penyakit dengan keahliannya meracik jamu tradisional Jawa. Produknya ini kemudian dijual dan dipasarkan. Dengan mengunjungi tempat ini, kita dapat melihat bagaimana proses pembuatannya ataupun membeli hasil produknya."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.112622099665672, 110.40861653234583]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 40,
+            "NAMA": "PT. Nissin Biscuit (Emporium Nissin Biscuit)",
+            "ALAMAT": "Jl. Raya Semarang - Salatiga KM 23 Babadan Gedanganak, Kecamatan Ungaran Timur Kabupaten Semarang 50519",
+            "KECAMATAN": "Ungaran Timur",
+            "TELP": [null],
+            "FOTO": ["https://1.bp.blogspot.com/-vv7CE2nwBIA/VVGiCQucp9I/AAAAAAAAFWY/xAFIfph995Y/s1600/nissin%2Bkafe1%2Bungaran.jpg", "https://1.bp.blogspot.com/-4TFH4aCK6aE/VaUk2KaXLXI/AAAAAAAAGiA/g0-Lnzgdzj4/w1200-h630-p-k-no-nu/Nissin%252BEmporium%252Bkafe%252Bungaran.jpg", "https://3.bp.blogspot.com/-va922HbLIb8/VaUk3o_lx1I/AAAAAAAAGiI/76whbbrIUCE/s400/nissin%252Bungaran.jpg", "https://i.ibb.co/6gp1z7Y/Nissin-Emporium.jpg"],
+            "DESKRIPSI": "PT Nissin Biscuit Indonesia pada mulanya dikenal sebagai pabrik produksi kue kering. Tempat yang memproduksi berbagai jenis kue kering ini menghasilkan produk yang cukup dikenal masyarakat. Contoh dari hasil produksi tersebut saat itu berupa roti kering dengan merk Nissin, Monde, dan Khong Guan yang dikemas dalam kaleng. Namun seiring berkembangnya jaman, tempat yang dikenal sebagai pabrik makanan ini ikut berevolusi, mampu menghasilkan beragam jenis snack dengan bermacam kemasan, bentuk dan rasa. Selain dari segi produk, PT Nissin Biscuit Indonesia juga menghadirkan emporium, cafe, dan museum yang cocok sebagai tempat bersinggah. "
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.1588376249167265, 110.4127095508463]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 41,
+          "NAMA": "PT. Sosro",
+          "ALAMAT": "Jl. Semarang - Bawen KM 28 Bergas Kidul, Kecamatan Bergas Kabupaten Semarang 50552",
+          "KECAMATAN": "Bergas",
+          "TELP": [null],
+          "FOTO": ["https://mapio.net/images-p/42403018.jpg", "https://t-2.tstatic.net/jateng/foto/bank/images/mau-kunjungi-pabrik-dan-saksikan-proses-produksi-teh-botol-sosro-begini-caranya_20151215_160743.jpg", "https://sinarsosro.id/files/images/kunjungan3.jpg"],
+          "DESKRIPSI": "PT. Sinar Sosro adalah perusahaan teh siap minum dalam kemasan botol yang pertama di Indonesia dan di dunia. Anda dapat mengunjungi pabrik PT. Sosro untuk melihat langsung bagaimana produk teh Sosro dibuat dengan selalu peduli tentang kualitas, keamanan, sehat dan juga ramah lingkungan."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.16081726460505, 110.42148211784577]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 42,
+            "NAMA": "AYANAZ Gedongsongo",
+            "ALAMAT": "Dusun Darum Desa Candi Kecamatan Bandungan Kabupaten Semarang",
+            "KECAMATAN": "Bandungan",
+            "TELP": ["081327699654", "081390390768 (Ida)"],
+            "FOTO": ["https://cdn-2.tstatic.net/travel/foto/bank/images/ayanaz-gedongsongo-di-bandungan.jpg", "https://img-z.okeinfo.net/library/images/2018/11/12/gqywb7rq3ll0ffcboyej_12981.jpg", "https://sikidang.com/wp-content/uploads/Ayana-Gedong-Songo.jpg", "https://cdn-2.tstatic.net/travel/foto/bank/images/ayanaz-gedongsongo.jpg", "https://www.joglowisata.com/wp-content/uploads/2019/03/Ayanaz-Gedongsongo.jpg", "https://joss.co.id/data/uploads/2021/04/ayana-gedong-songo.jpg"],
+            "DESKRIPSI": "Ayanaz Gedongsongo menyediakan banyak spot foto keren untuk para wisatawan. Latar pegunungan, awan, dan langit biru membuat tempat ini sangat indah untuk berfoto. Pemandangan utama adalah Gunung Ungaran serta Gunung Sindoro dan Sumbing yang sangat indah sebagai latar foto. Ada banyak spot foto dengan properti unik dan menarik. Terdapat taman rumput, cozy room, balon udara, bubble tent, dan masih banyak lainnya. Di bagian atas terdapat beberapa spot foto berbentuk setengah bola. Di dalamnya terdapat bantal dan karpet rumput buatan yang memberi kontras untuk tempat berfoto. Dengan lebih dari 35 spot foto terhampar, para wisatawan bebas berfoto di manapun. Selain itu, ada enam spot berbayar seperti balon dan bubble ukuran besar serta kecil."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.208526199197296, 110.34106783364041]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 43,
+            "NAMA": "Gumuk Reco Sepakung",
+            "ALAMAT": "Dusun Kenongo, Desa Wisata Sepakung, Kecamatan Banyubiru Kabupaten Semarang",
+            "KECAMATAN": "Banyubiru",
+            "TELP": ["085742777778 (Nuri)"],
+            "FOTO": ["https://travelspromo.com/wp-content/uploads/2020/07/Tebing-Gumuk-Reco-yang-Menawan.-Foto-Gmap-Sugianto-Sugianto-1024x768.jpg", "https://www.datawisata.com/wp-content/uploads/2018/05/Gumuk-Reco-1024x768.jpg", "https://1.bp.blogspot.com/-A8mj3j5ziJA/XbBEUR0jELI/AAAAAAAAE_0/-Qng1zdsrWI-r3udn-eAoD0C5aeewQnEgCLcBGAsYHQ/s1600/Wisata-Alam-Gumuk-Reco.jpg", "https://asset.kompas.com/crops/D44TcSY3-I_NJRY0itpqJF5O-A4=/0x0:0x0/750x500/data/photo/2020/11/08/5fa7ba8918316.jpg", "https://www.datawisata.com/wp-content/uploads/2018/05/Wisata-Alam-Gumuk-Reco-Semarang-1024x683.jpg"],
+            "DESKRIPSI": "Objek wisata ini menawarkan keindahan alam berupa tebing-tebing yang indah. Ditambah lagi atraksi dan wahana yang memacu adrenalin. Objek wisata Gumuk Reco menawarkan pemandangan alam yang begitu indah. Tebing-tebing batu dengan bentuk yang unik berdiri menjulang menembus pepohonan. Wahana pertama yang wajib dicoba adalah Ayunan Langit. Seperti namanya, wahana ini berupa ayunan yang sangat tinggi seolah mencapai ke langit. Dan di bawahnya adalah jurang menganga sedalam 2.000 meter. Pengunjung akan merasakan sensasi mengayun di ketinggian dengan pemandangan jurang di bawahnya. Satu lagi yang tidak kalah seru adalah meluncur dengan flying fox. Pengunjung akan diajak meluncur sejauh 200 meter dengan kecepatan tinggi. Wahana lain yang selalu menjadi favorit dan tidak pernah sepi pengunjung selanjutnya bernama Ondo Langit. Wahana ini berupa jalan titian yang berada di sisi tebing curam setinggi 45 meter. Di sini, pengunjung akan merasakan sensasi berjalan di atas tebing dengan pemandangan jurang di bawahnya. Tak tanggung-tanggung, jurang di bawahnya ini memiliki kedalaman 2.000 meter."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.3415457189364, 110.4272502508385]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 44,
+          "NAMA": "Kampoeng Banyumili",
+          "ALAMAT": "Desa Gedangan, Kecamatan Tuntang Kabupaten Semarang 50773",
+          "KECAMATAN": "Tuntang",
+          "TELP": ["085870928005 (Yani Susanto)"],
+          "FOTO": ["https://1.bp.blogspot.com/-_q4H4LEv32o/YLLeGslAJ3I/AAAAAAAAWfE/W2f3OUXvc94jiaSBcffzuG5qj8B3wvtrACLcBGAsYHQ/s1024/danau%2Bperahu%2Bkampoeng%2Bbanyumili.jpeg", "https://cdn.langit7.id/foto/850/langit7/berita/2021/08/26/1/3001/kampoeng-banyumili-resto-instagramable-berkonsep-alam-pedesaan-waz.jpeg", "https://cdn.langit7.id/langit7/article/l7/2021/08/26/kampoeng%20banyumili1.jpeg", "https://1.bp.blogspot.com/-nPzx90Sax88/XGWJJ-q2tbI/AAAAAAAAASA/8fDLeUGEUHMOgDrkJXdn8Ibtf2BkZmLLgCLcBGAs/s1600/P1.jpg", "https://lh5.googleusercontent.com/p/AF1QipMXeb1UcYEr7iTLx9gHnye9qu_XU9ZbOGAUPho=w1080-k-no", "https://labirutour.com/wp-content/uploads/2021/04/DSC_0050.jpg", "https://inibaru.id/nuploads/60/banyumili%201.JPG"],
+          "DESKRIPSI": "Kampoeng Banyumili merupakan Restoran, Pemancingan, dan tempat Outbound dengan latar belakang pemandangan alam gunung Merbabu dan Telomoyo serta dikelilingi hamparan persawahan nan asri. Terletak di Desa Gedangan, Kab. Semarang tepatnya 5 km dari Kota Salatiga, Kampoeng Banyumili sangat mudah dicapai karena terletak di jalan raya Salatiga Muncul yang menghubungkan kota Salatiga dengan Ambarawa. Tempat yang jauh dari keramaian menjadikan Kampoeng Banyumili tempat yang tepat untuk bersantai bersama keluarga tercinta, menikmati keindahan alam Kampoeng Banyumili, sambil menikmati hidangan istimewa dari Resto Banyumili. Kampoeng Banyumili juga tempat yang tepat untuk mengadakan berbagai acara seperti outbound, meeting, gathering, reuni, wedding dan berbagai acara istimewa Anda."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.329073176465723, 110.46045913551129]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 45,
+            "NAMA": "Watu Gajah Park",
+            "ALAMAT": "Dusun Watugajah RT 01 RW 06, Desa, Ngobo, Wringin Putih, Bergas, Semarang, Jawa Tengah, Indonesia, 50552",
+            "KECAMATAN": "Bergas",
+            "TELP": ["085641862869"],
+            "FOTO": ["https://travelspromo.com/wp-content/uploads/2019/12/Suasana-di-Watu-Gajah-Park.jpg", "https://www.pinhome.id/blog/wp-content/uploads/2021/09/Wisata-Alam-Watu-Gajah-Park-Ungaran-1-1024x647.jpg", "https://www.itrip.id/wp-content/uploads/2021/12/Watu-Gajah-Park-Semarang.jpg", "https://travelspromo.com/wp-content/uploads/2019/12/Wisata-Keluarga-Watu-Gajah-Park.-Foto-Gmap-Eko-Endarmoko-1024x768.jpg", "https://www.pinhome.id/blog/wp-content/uploads/2021/09/Warung-Watoe-Gadjah-di-Jogja-1024x768.jpg", "https://i0.wp.com/tiketmasukwisata.com/wp-content/uploads/2020/01/wahana-kolam-renang-watu-gajah-park-semarang-jawa-tengah.jpg?resize=702%2C468&ssl=1", "https://travelspromo.com/wp-content/uploads/2019/12/Salah-Satu-Area-Taman-Vertikal-Watu-Gajah-Park.-Foto-Gmap-Dewy-DP-1024x768.jpg"],
+            "DESKRIPSI": "Watu Gajah Park memang cocok banget dijadikan tempat wisata keluarga. Berbagai patung dari patung manusia, patung hewan di lokasi wisata bisa menjadi teman foto. Ada patung gajah tentunya, jerapah, dinosaurus, dan masih banyak yang lainnya. Tak lupa spot foto dengan tema air terjun mini serta batu berundak-undak menjadi pilihan wisatawan. Salah satu wahana favorit di Taman Watu Gajah adalah kolam renang atau waterpark yang ada di lokasi wisata. Setidaknya ada dua kolam renang di sini dilengkapi dengan perusutan dan waterboom. Tak hanya foto-foto instagenik, wahana kolam renang adalah wahana rekreasi anak terbaik di sini."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.1631292333620475, 110.44625752199322]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 46,
+          "NAMA": "Taman Bunga Setiya Aji",
+          "ALAMAT": "Jl. Kendalisodo, Piyato, Bandungan, Kec. Bandungan, Semarang, Jawa Tengah 50614",
+          "KECAMATAN": "Bandungan",
+          "TELP": ["+6285640143324"],
+          "FOTO": ["https://www.jejakpiknik.com/wp-content/uploads/2017/10/semarang-tawarkan-wisata-bunga-di-bandungan-630x380.jpg", "https://www.pinhome.id/blog/wp-content/uploads/2019/05/Cover-Setiya-Aji-Flower-Farm.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMlnO4Ru-V64Xds8y58WXqaCUMuNQhFggzyg&usqp=CAU"],
+          "DESKRIPSI": "Setiya Aji Flower Farm adalah salah satu obyek wisata yang menawarkan pesona keindahan taman bunga. Menariknya di Setiya Aji Flower Farm terdapat beragam jenis bunga cantik dan memanjakan mata. Misalnya bunga Krisan, bunga Celosia, bunga Matahari, dan lain-lain. Selain enak dipandang, juga merupakan spot foto yang keren. Apabila Anda termasuk orang yang hobi bunga, maka cocok bila mendatangi tempat wisata ini. Tempat wisata bunga ini sudah dilengkapi dengan fasilitas yang komplit. Mulai dari tempat parkir, musholla, toilet, gazebo, warung makan, hingga jasa foto untuk pengunjung yang ingin berfoto dengan hasil keren."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.22905776462268, 110.38015215663313]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 47,
+            "NAMA": "Wisata Taman Bunga Celosia",
+            "ALAMAT": "Jl. Gedong Songo, Banyukuning, Bandungan, Kabupaten Semarang",
+            "KECAMATAN": "Bandungan",
+            "TELP": ["0823255629966", "082137461769"],
+            "FOTO": ["https://asset.kompas.com/crops/GsXpeg6LS1b-ruZlEZHoAzUnbCw=/0x17:1134x584/780x390/data/photo/2021/02/05/601d0b6cabee2.jpg", "https://travelspromo.com/wp-content/uploads/2018/09/Taman-Bunga-Celosia-2.jpg", "https://img.okezone.com/content/2020/11/18/408/2311988/liburan-ke-taman-bunga-celosia-suasananya-kayak-di-paris-loh-EiBoiY7ETU.jpg", "https://asset.kompas.com/crops/AtnWFcVwYDwhcGyycvKiTnvkzFY=/0x0:1440x960/750x500/data/photo/2021/02/05/601d0b6f4e0e2.jpg", "https://salsawisata.b-cdn.net/wp-content/uploads/2021/06/Spot-Foto-di-Taman-Bunga-Celosia.jpg"],
+            "DESKRIPSI": "Taman Bunga Celosia menyediakan wisata selfie dengan spot-spot yang menarik. Tidak hanya bagi pengunjung dewasa yang bisa menikmati wisata. Pengunjung anak-anak juga dapat dengan ceria bermain di sekitar taman dengan berbagai permainan dan ikon-ikon yang menarik. Terdapat banyak spot foto seperti lorong penuh dengan bunga gantung, rumah Hobbit, kursi Gantung, balon udara, dan lainnya. Selain itu, terdapat berbagai bunga yaitu bunga Celosia, bunga hebras, lavender, diantus, gerbera, krisan, dan lainnya. Miniatur Landmark dari berbagai Negara juga terdapat disini seperti menara Eiffel, Patung Merlion, kincir angin besar khas Belanda, Face Head dari Easter Island, dan Stonehenge dari United Kingdom. Ada juga museum selfie yang menyediakan berbagai spot foto selfie indoor dengan berbagai macam latar cantik. Menghadirkan gambar-gambar ilusi 3 dimensi yang tertata baik untuk keperluan selfie wisatawan. Tersedia juga berbagai macam bibit bunga dengan spesies yang beragam dan berbagai souvenir hasil kerajinan tangan warga setempat dapat dijadikan sebagai oleh-oleh."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.22418330136623, 110.34565546435373]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 48,
+            "NAMA": "Saloka Theme Park",
+            "ALAMAT": "Jl. Fatmawati No.154, Gumuksari, Lopait, Kec. Tuntang, Semarang, Jawa Tengah 50773",
+            "KECAMATAN": "Tuntang",
+            "TELP": ["+62298322266"],
+            "FOTO": ["https://awsimages.detik.net.id/community/media/visual/2019/06/22/0d893196-a40a-489a-b206-26407b341146_169.jpeg?w=780&q=90", "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit621414gsm/events/2021/03/15/faad2b06-a01d-4dd0-bc0f-acc26965b2b9-1615786965437-8f193faa572586f48a80beefafac7b77.jpg", "https://travelspromo.com/wp-content/uploads/2019/04/Wahana-Cakrawala-Kincir-Raksasa-Saloka-Park-Isidorus-Agles.jpg", "https://ik.imagekit.io/tvlk/blog/2021/11/Liburan-Seru-di-Saloka-Theme-Park-Semarang-Traveloka-Xperience-3-1.jpeg", "https://www.datawisata.com/wp-content/uploads/2019/07/Saloka-Theme-Park-Semarang-salokapark-1024x817.jpg", "https://lh5.googleusercontent.com/p/AF1QipMf5qeePI96QhwX0iDgiYrJ4VCPW7ZvSglGZMDR=s16383", "https://www.marketeers.com/wp-content/uploads/2019/06/Saloka.jpeg"],
+            "DESKRIPSI": "Saloka sejauh ini menjadi satu-satunya tempat wisata terbesar di Jateng dengan sajian permainan paling lengkap. Setidaknya terdapat 25 wahana yang tersedia di Theme Park ini terbagi dalam empat zona. Zona tersebut meliputi Zona Pesisir antara lain tempat tiket, pasar seni saloka, lumbung ilmu galileo dan lain-lainnya. Zona kedua yakni Balalantar, kemudian Zona Segara Prada dan Zona Ararya. Taman rekreasi yang tidak hanya menyajikan wahana permainan tapi juga suasana gembira dan menyenangkan."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.280460141657929, 110.45955926429272]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 49,
+          "NAMA": "Lereng Kelir",
+          "ALAMAT": "Gertas, Brongkol, Kec. Jambu, Semarang, Jawa Tengah 50663",
+          "KECAMATAN": "Jambu",
+          "TELP": ["+6285842824369"],
+          "FOTO": ["https://humas.jatengprov.go.id/foto/1568258900879-k5_detail.png", "https://jejakpiknik.com/wp-content/uploads/2017/11/@destinasigertas.jpg", "https://humas.jatengprov.go.id/foto/1568258900881-k1_detail.png", "https://camerawisata.com/wp-content/uploads/2018/04/camping-di-lereng-kelir.png", "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2021/04/30/3757378521.jpg"],
+          "DESKRIPSI": "Gardu pandang Lereng Kelir dibangun di atas bukit di ketinggian 1300 Mdpl, maka tak heran ketika kita naik di gardu ini kita bisa melihat panorama danau Rawa Pening, Gunung Sindoro, Gunung Sumbing, Gunung Telomoyo, Gunung Ungaran, Gunung Merbabu dan kota-kota di sekitarnya seperti Ambarawa dan Salatiga. Tidak jauh dari lokasi gardu pandang terdapat camping area dengan luas sekitar 600 meter persegi. Tempat ini ditujukan bagi wisatawan atau pengunjung yang ingin camping atau sekedar ingin menikmati suasana malam hari di area puncak. Area swafoto atau selfie pun dibuat oleh para pemuda setempat agar pengunjung dapat mengabadikan kenangannya di tempat itu."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.311788654162708, 110.37504563330988]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 50,
+            "NAMA": "Kolam Renang Baran Permai",
+            "ALAMAT": "Jl. Raya Bandungan Km. 2, Ambarawa, Bodean, Baran, Kec. Ambarawa, Semarang, Jawa Tengah 50651",
+            "KECAMATAN": "Ambarawa",
+            "TELP": ["+62298596160"],
+            "FOTO": ["https://10619-2.s.cdn12.com/rests/original/109_510054985.jpg", "https://fastly.4sqi.net/img/general/600x600/8901585_h-koeDd29QCWD6FY_FTNi5GzhuIlUcpvhQUc7hLCLww.jpg", "https://fastly.4sqi.net/img/general/600x600/4IT5I0ZWC51CD3RCLBCZ0RA0KSO3MFUFNRXB00SDCLUECLHY.jpg"],
+            "DESKRIPSI": "Kolam renang yang terletak di desa Baran kecamatan Ambarawa ini cukup bersih dan murah meriah. Cukup Rp. 8000,- untuk sekali masuk. Kolam ini sangat mencukupi dan bersih untuk sekedar berolahraga dan belajar berenang."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.248936779924116, 110.3978455354864]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 51,
+          "NAMA": "Agrowisata Kopeng Gunungsari",
+          "ALAMAT": "Jalan Umbulsongo, Kopeng, Jawa Tengah, Indonesia 50774 Kopeng",
+          "KECAMATAN": "Getasan",
+          "TELP": ["+62 812-2701-1203"],
+          "FOTO": ["https://2.bp.blogspot.com/-oMoKPsBkDp4/XL8dzAKGw_I/AAAAAAAAcUc/jnvyfGBEZTwCYj_fWVHe_eMoFActjilYwCEwYBhgL/s1600/IMG_9152.jpg", "https://asset.kompas.com/crops/_MGuuKH3BRvljUVmdnXiXnaOHVI=/0x0:780x520/750x500/data/photo/2019/03/11/1881865447.jpg", "https://asset.kompas.com/crops/rKVMAkU360llTjLAtsg-eREhsMo=/0x0:780x520/750x500/data/photo/2019/03/11/1298683269.jpg", "https://jadwaltravel.com/wp-content/uploads/2019/11/Agrowisata-Kopeng-Gunungsari.jpg", "https://asset.kompas.com/crop/0x0:780x520/750x500/data/photo/2019/03/11/2077971336.jpg", "https://pbs.twimg.com/media/DheJWlrU8AUdS4d.jpg"],
+          "DESKRIPSI": "Agrowisata Kopeng Gununsari terletak di daerah lereng pegunungan Merbabu. Kawasan wisata ini berada di 3142 meter di atas permukaan laut. Wisata Kopeng Gunungsari Semarang menawarkan beragam pesona keindahan sebuah kawasan wisata di Salatiga yang lengkap mulai dari spot menarik hingga camping ground. Argowisata Kopeng Gunungsari hadir dengan konsep heritage gaya tradisional ditambah dengan kearifan lokal yang kental. Bagi wisatawan yang berkunjung di Agrowisata Kopeng Gunungsari, banyak aktivitas menarik yang bisa dilakukan di sana seperti Berswafoto di antara hamparan bunga dan menikmati buah jambu gratis yang langsung dipetik dari kebun. Di tempat wisata alam Salatiga ini, tersedia berbagai spot foto kekinian seperti menara gardu pandang dengan latar belakang view Gunung Merbabu yang megah."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.407812814281879, 110.4201950219847]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 52,
+            "NAMA": "Bamboo Garden Sumowono",
+            "ALAMAT": "Jl. Sumowono – Kaloran Km. 44 + 500 Dusun Garon RT 01 RW 02, Desa Candi Garon, Kec. Sumowono, Kab. Semarang, Jawa Tengah",
+            "KECAMATAN": "Sumowono",
+            "TELP": ["+6281803922112", "+6281226527778"],
+            "FOTO": ["https://asset.kompas.com/crops/_wl8gBmTAwC3-F18tZTXl0twMac=/0x0:0x0/750x500/data/photo/2021/11/02/6180eeafb96d1.jpg", "https://1.bp.blogspot.com/-djLCyxewEqQ/XUbhwHqWcjI/AAAAAAAAerc/7FrQzBSkISYofmr3RJ-Mz2QwPC1KuoQiwCLcBGAs/s1600/IMG-20190804-WA0019.jpg", "https://jadwaltravel.com/wp-content/uploads/2019/08/Bamboo-Garden-Sumowono.jpg", "https://1.bp.blogspot.com/-DemkdvXT7A8/XR6l4pv27FI/AAAAAAAAAH8/__WcxSOduNsgm-4-kCDxkxxUpI7HT9b2gCLcBGAs/s1600/IMG_20190629_121009.jpg", "https://i.ibb.co/1MgJ87T/IMG-20200118-124836.jpg"],
+            "DESKRIPSI": "Destinasi yang satu ini mengusung konsep taman Bambu dengan view Gunung Ungaran. Bukan hanya satu atau dua, bahkan ada 37 jenis bambu hidup yang ditanam disini. Selain bisa belajar mengenal jenis – jenis Bambu, pengunjung bisa makan maupun bersantai di sejumlah fasilitas dengan kelas premium. Secara sepintas tentu yang diunggulkan adalah adanya tanaman bambu yang beranekaragam dimana bambu menjadi tema dari wisata ini. Lebih dari itu, ternyata pengunjung bisa menikmati kemegahan Gunung Ungaran, bisa berswafoto, dan bisa makan-makan di resto dengan view yang indah."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.230948329899221, 110.30253756431469]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 53,
+            "NAMA": "Dusun Semilir",
+            "ALAMAT": "Jl. Soekarno - Hatta No.49, Ngemple, Bawen, Ngemplak, Semarang, Jawa Tengah 50661",
+            "KECAMATAN": "Bawen",
+            "TELP": ["+6281326448922"],
+            "FOTO": ["https://asset.kompas.com/crops/mLl82fZfouaXyOflajW24Gi_NJg=/0x219:1080x939/750x500/data/photo/2020/09/08/5f571d9eab2bd.jpg", "https://asset.kompas.com/crops/BmfY0YjUlyz9uea0dEepKjpCstM=/0x0:0x0/750x500/data/photo/2020/12/02/5fc7820d5d5c1.jpg", "https://asset.kompas.com/crops/_ds1VPMQX1vHrOEdACDtRO1h3w0=/0x0:780x520/750x500/data/photo/2019/06/17/2838871495.jpg", "https://dusunsemilir.com/wp-content/uploads/2020/12/GONDOLA_2.jpg", "https://cdn.idntimes.com/content-images/community/2020/05/95384677-1610597682422862-850361136605770721-n-e820aa7e3564fc42691b118dc38717f6.jpg", "https://cdn-cas.orami.co.id/parenting/images/Wisata_Dusun_Semilir_Perosotan.width-800.png", "https://media.netralnews.com/uploads/gallery/20210211_212346.jpg", "https://www.woke.id/wp-content/uploads/2019/12/Dusun-Semilir.jpg", "https://travelspromo.com/wp-content/uploads/2021/02/Alun-Tirta-dan-instalasi-unik-di-bagian-tengah-kolamnya-Brother-Shaw-1024x768.jpg"],
+            "DESKRIPSI": "Dusun Semilir adalah taman hiburan yang mengkombinasikan suasana alam pedesaan dengan wisata kekinian. Dusun Semilir menawarkan beragam wahana permainan dan hiburan menarik. Pertama yaitu wahana Perosotan yang menyajikan peluncuran setinggi 30 meter. Dengan panjang setidaknya 150 meter. Pengunjung akan merasakan sensasi meluncur yang dijamin seru. Selain itu ada juga wahana Banyu Biru yang memiliki kolam renang terbuka untuk berenang dan tubing. Kemudian ada pula kegiatan berkeliling dengan Kereta Wisata, Trem, dan Gondola yang tak kalah menarik. Selanjutnya jika ingin aktivitas fisik, pengunjung bisa berkeliling menggunakan sepeda. Wahana lainnya yang tak boleh ketinggalan yaitu Omah Suwung. Omah Suwung adalah rumah hantu yang akan memberikan pengalaman menegangkan sekaligus menyenangkan selama permainan. Sedangkan untuk pengunjung anak-anak, ada wahana Inflatable dan Omah Dolanan. Yaitu wahana yang menyajikan bermacam-macam permainan yang melatih gerak motorik anak. Selanjutnya adalah wisata flora dan fauna. Di taman ini terdapat Truwelu Park dengan koleksi kelinci-kelincinya yang lucu. Selama di taman kelinci pengunjung bisa memberi wortel untuk kelinci menggunakan alat pancing."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.238053503251604, 110.43319747782222]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 54,
+          "NAMA": "Muncul Waterpark",
+          "ALAMAT": "Rowoganjar, Desa Rowoboni, Kecamatan Banyubiru, Semarang, Jawa Tengah 50664",
+          "KECAMATAN": "Banyubiru",
+          "TELP": ["024-6921424", "085943159333 (Sri)"],
+          "FOTO": ["https://www.pinhome.id/blog/wp-content/uploads/2019/04/muncul-waterpark-semarang.jpg", "https://www.pinhome.id/blog/wp-content/uploads/2021/10/m-1024x576.jpg", "https://1.bp.blogspot.com/-zDqxZ-rAwa8/XXR7Vs9nhSI/AAAAAAAAJDQ/2hJjdY0CJtMOhNSgNosbzvcp6gqCKP95ACLcBGAs/s400/muncul%2Bwaterpark%2Bsemarang.jpg"],
+          "DESKRIPSI": "Tempat wisata Muncul ini memiliki panorama alam sekitar yang indah dan mempesona seperti pegunungan dan pepohonan hijau yang rindang. Berada di kawasan dataran tinggi juga membuat suhu udara di wisata ini terasa sangat sejuk. Wahana atau fasilitas utama yang bisa dinikmati adalah 2 kolam renang dimana 1 kolam renang untuk anak-anak dan 1 kolam renang untuk orang dewasa. Tersedia fasilitas pendukung di kolam renang seperti seluncuran, ember tumpah, dan air mancur. Adapun fasilitas umum yang tersedia diantaranya ialah tempat parkir kendaraan, toilet, gazebo, kantin, dan lain sebagainya."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.328316111340899, 110.44018322012798]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 55,
+            "NAMA": "Sunrise Hill",
+            "ALAMAT": "Dusun Darum RT.01, Tlogosari, Candi, Kec. Bandungan, Semarang, Jawa Tengah 50614",
+            "KECAMATAN": "Bandungan",
+            "TELP": ["0822-2693-3233"],
+            "FOTO": ["https://cdn-2.tstatic.net/travel/foto/bank/images/sunrise-hill-bandungan-imgs.jpg", "https://cdn0-production-images-kly.akamaized.net/t9ilzC1WOwcAtBXLB03BNWDy-1I=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2849489/original/084000900_1562743416-sunrise_2.jpg", "https://lh3.googleusercontent.com/p/AF1QipMZZjrkt4As6n-UebJrwiltuapywwXcjCwn6rZU=w1080-h608-p-no-v0", "https://q-xx.bstatic.com/xdata/images/hotel/max500/275272557.jpg?k=b8a0ccb04408700da30992ceae475234a7228bab53b67df64007df43e8e7fc3c&o="],
+            "DESKRIPSI": "Sunrise Hill Gedong Songo merupakan wisata ramah keluarga yang cocok dikunjungi semua usia. Mulai dari penginapan, playground, studio foto baju adat, kampung tematik, glamping, kolam renang dan masih banyak lagi. Sementara Anda yang suka tantangan bisa bermain labirin di Rumah Sesat Labirin Sunrise Hill Gedong Songo. Ada juga Rumah Terbalik untuk Anda yang ingin punya foto bergaya unik. Setelah puas menikmati wisata Sunrise Hill Gedong Songo, Anda bisa istirahat sambil kulineran di resto."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.212344069625641, 110.34437530660993]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 56,
+          "NAMA": "Taman Bunga Axelia",
+          "ALAMAT": "Jl. Banyu Biru Raya, Pojoksari, Kec. Ambarawa, Semarang, Jawa Tengah 50614",
+          "KECAMATAN": "Ambarawa",
+          "TELP": ["+622986053850"],
+          "FOTO": ["https://seringjalan.com/wp-content/uploads/2019/07/Taman-Bunga-Axelia-di-Semarang_600x400.jpg", "https://cdn-2.tstatic.net/kaltim/foto/bank/images/taman-bunga-axelia.jpg", "https://beritapagi.co.id/wp-content/uploads/2021/08/SAVE_20210802_093541-scaled.jpeg"],
+          "DESKRIPSI": "Konsep yang diusung oleh Taman Axelia adalah berupa education garden. Bukan hanya sebatas taman bunga saja, namun tempat ini juga dilengkapi dengan berbagai macam fasilitas serta wahana cukup lengkap. Hamparan bunga celosia yang berada ditepi danau Rawa Pening ini semakin cantik karena dikelilingi dengan pemandangan gunung, sawah, dan juga tiupan angin semilir. Bukan hanya bisa berfoto dengan hamparan bunga celosia yang mempesona, disini juga tersedia wisata kuliner dan wisata air."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.2241513703670535, 110.3456340066816]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 57,
+            "NAMA": "Wisata Alam Perantunan",
+            "ALAMAT": "Jl. Lingkungan, Gintungan, Bandungan, Kec. Bandungan, Semarang, Jawa Tengah 50614",
+            "KECAMATAN": "Bandungan",
+            "TELP": ["083841048560 (Widodo)"],
+            "FOTO": ["https://www.pegipegi.com/travel/wp-content/uploads/2019/04/shutterstock_1339270937.jpg", "https://asset.kompas.com/crops/8VpNinY26U9QP2hLo9BRALKv4ZA=/0x0:1620x1080/750x500/data/photo/2021/09/21/61491f6711cd6.jpg","https://live.staticflickr.com/65535/50022537903_2b43f3e32b_o.jpg", "https://live.staticflickr.com/65535/50022537923_5aec5562a7_o.jpg", "https://pbs.twimg.com/media/Ew52aOvVgAAQ_9M.jpg", "https://s.kaskus.id/r540x540/images/2020/08/29/10740511_202008290514160377.png"],
+            "DESKRIPSI": "Berada di kaki Gunung Ungaran, wisata alam Perantunan menyuguhkan pemandangan indah Semarang, gugusan pegunungan, dan tak lupa golden sunrise-nya yang memikat hati. Fasilitas yang tersedia cukup lengkap seperti mushola, toilet dan sumber air yang melimpah, camp-ground yang luas, serta warung-warung yang menjajakan banyak makanan untuk pengunjung. Salah satu yang menjadi daya tarik tersendiri dari wisata Perantunan adalah sunrisenya yang tak kalah cantik dari pemandangan sunrise di puncak-puncak gunung. Wisata Perantunan bisa menjadi tempat terbaik untuk menikmati sunrise yang memikat hati atau untuk sekedar melepas penat dari riuhnya kota."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.203132625635502, 110.35668501446658]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 58,
+            "NAMA": "Bantir Hills",
+            "ALAMAT": "Jalan Bantir, Desa Losari Kecamatan Sumowono",
+            "KECAMATAN": "Sumowono",
+            "TELP": ["081326161658 (Tri)"],
+            "FOTO": ["https://cdn-image.hipwee.com/wp-content/uploads/2017/05/hipwee-Bantir-Hills.jpg", "https://cdn.idntimes.com/content-images/community/2017/11/2-b54ec4cdf09b51416409b98fd256ca10_600x400.jpg", "https://images.solopos.com/2017/03/F7Sdn3Uq-bantir-hills-FB-Dhika-Andhika-Jaya2.jpg"],
+            "DESKRIPSI": "Bantir Hills memiliki kecantikan alam serta dapat dijadikan sebagai hunting spot foto alam. Berbagai spot-spot foto kece yang bisa dijadikan sebagai tempat berswafoto sesuka hati diantaranya tempat istirahat gazebo, jembatan hutan, beragam gardu pandangan, rumah pohon dan lain-lain. Berada di lokasi wisata, Anda bisa menyaksikan kemegahan lebih dari satu gunung yakni gunung Merbabu, Merapi, Temoloyo, Andong hingga Gajah."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.202313707198911, 110.32442973549499]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 59,
+          "NAMA": "Klenting Kuning",
+          "ALAMAT": "Desa Kemawi, Kecamatan Sumowono, Kabupaten Semarang",
+          "KECAMATAN": "Sumowono",
+          "TELP": ["+6285226350630"],
+          "FOTO": ["https://jadwaltravel.com/wp-content/uploads/2019/12/Curug-Klenting-Kuning.jpg", "https://t-2.tstatic.net/jateng/foto/bank/images/air-terjun-klenting-kuning_20161201_111609.jpg", "https://i.vgy.me/kSVvrr.jpg", "https://d39wptbp5at4nd.cloudfront.net/media/18944_original_data.jpg"],
+          "DESKRIPSI": "Curug / Grojogan / Air Terjun Klenting Kuning adalah satu tempat wisata alam yang berupa air terjun dengan dinding tebing berwarna kuning dan air yang jernih. Tidak terlalu tinggi memang air terjun ini, karena tingginya hanya sekitar 8 meter. Curug ini menjadi pesona yang tersembunyi dari sebuah desa yang bernama Kemawi. Curug Klenting Kuning ini dengan tekstur tebing bebatuan dengan warna kekuningan, nampaknya sumber air yang mengalir memiliki kandungan belerang yang tinggi. Di area ini juga terdapat 3 lagi air terjun selain Klenting Kuning. Klenting Biru yang paling dekat, tingginya sekitar 4 meter. Ada juga Klenting Hijau, namun masih sedikit tertutup semak belukar."
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.197326648563708, 110.31361717249231]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 60,
+            "NAMA": "Vanaprastha Gedong Songo",
+            "ALAMAT": "Jl. Ke Candi Gedong Songo No.16, Krajan, Banyukuning, Kec. Bandungan, Semarang, Jawa Tengah 50614",
+            "KECAMATAN": "Bandungan",
+            "TELP": [null],
+            "FOTO": ["https://lh5.googleusercontent.com/p/AF1QipN4xcoJLV6ebUXFYzUnFmcehTo9fKPuU9RpV370=w1080-k-no", "https://cdn-2.tstatic.net/travel/foto/bank/images/vanaprastha-gedong-songo-park.jpg", "https://phinemo.com/wp-content/uploads/2018/11/45364180_1953246911432583_5799509273067697026_n.jpg", "https://jadwaltravel.com/wp-content/uploads/2019/10/Tiket-Masuk-Vanaprastha-Park.jpg", "https://t-2.tstatic.net/jateng/foto/bank/images/rumah-kayu-di-vanprastha-park_20170109_104821.jpg", "https://idetrips.com/wp-content/uploads/2021/01/vanaprastha-park-gedong-songo-temple-640x480.jpg"],
+            "DESKRIPSI": "Vanaprastha Gedong Songo Park bisa jadi destinasi pilihan berlibur yang cocok bagi Anda yang ingin merasakan suasana hutan yang masih asri. Terletak di ketinggian 1.200 meter di atas permukaan laut, Vanaprastha Gedong Songo Park memiliki udara yang sejuk dan tepat untuk rileksasi tubuh. Selain bisa melakukan relaksasi dengan sejuknya udara di Vanaprastha Gedong Songo Park, pengunjung juga bisa menikmati wisata sejarah. Di Vanaprastha Gedong Songo Park didirikan tiga rumah heritage yang salah satunya sudah berusia lebih dari satu abad. Selain fasilitas villa, ada pula taman pinus, taman bermain anak, area camping dan kursi tempat bercengkrama sembari bersantai dan menikmati pemandangan hutan pinus yang tumbuh subur."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.206277321549914, 110.34183459314366]
+        }
+      },
+      {
+        "detail": {
+          "ID_WISATA": 61,
+          "NAMA": "Wisata Pesona Garda",
+          "ALAMAT": "Dusun Dawung, Desa Candirejo, Kecamatan Pringapus",
+          "KECAMATAN": "Pringapus",
+          "TELP": ["089528233613 (Pak Zam)"],
+          "FOTO": ["https://1.bp.blogspot.com/-beOwclk_JeE/X75Kt5dBfgI/AAAAAAAAm_A/2QnjpURREsgwaT-TbnN4AjTEQeYgKsJ-wCLcBGAsYHQ/s1280/IMG-20201125-WA0010.jpg", "https://i0.wp.com/lpmmissi.com/wp-content/uploads/2021/05/Jeguran-sak-puase-di-Wisata-Pesona-Garda-Sungai-Tuntang-Dusun-Ndawung-Kab-Semarang.png?fit=600%2C399&ssl=1", "https://i.ibb.co/NjR0QG9/Pesona-garda-ISI.jpg"],
+          "DESKRIPSI": "Pesona garda adalah wisata fresh dan baru di kecamatan pringapus. Tepatnya berada di dusun Dawung desa Candirejo kecamatan pringapus kabupaten Semarang. Pesona garda menyajikan wisata sungai yang asri di dusun Dawung. Para pengunjung bisa bermain air sungai alami. Awalnya pesona garda hanyalah sebuah sungai biasa yang disulap menjadi tempat wisata yang menarik di tangan dingin Kadus setempat bersama warga Dawung. "
+        },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.203534126044405, 110.52286757782431]
+        }
+      },
+      {
+        "detail": {
+            "ID_WISATA": 62,
+            "NAMA": "Ngidam Muncar (Muncar River Tubing)",
+            "ALAMAT": "Desa Muncar Kecamatan Susukan",
+            "KECAMATAN": "Susukan",
+            "TELP": ["08122522592 (Bagas)"],
+            "FOTO": ["https://lh3.googleusercontent.com/p/AF1QipOfwlIRb-Omq9wQ_mgBUonAgBuUmUZPLySDy_cs=s1600-w400", "https://asset.kompas.com/crops/aSiqwbmQuzpXO4xnbd5cjNAz-2c=/0x90:1080x810/750x500/data/photo/2021/10/30/617d055a84efa.jpg", "https://www.rmoljawatengah.id/uploads/images/2021/10/image_750x500_617eae1b293c8.jpg"],
+            "DESKRIPSI": "Obyek wisata ini menawarkan pesona alam dan edukasi pertanian. Pesona alam pedesaan yang alami dan edukasi pertanian ditonjolkan pada obyek wisata ini karena mayoritas warganya adalah petani. Selain itu wisata air juga tidak kalah menarik karena lokasinya berada di tepi Sungai Serang. Ada grojokan atau pintu air Sungai Serang di lokasi Obyek Wisata Ngidam Muncar yang menjadi pilihan para wisatawan untuk bermain-main dengan air. Menyusuri sungai sepanjang kurang lebih 1,5 kilometer, pengunjung bisa menikmati aneka pemandangan berlatar pegunungan maupun Rawa Pening."
+          },
+        "geometri": {
+          "type": "Point",
+          "koordinat": [-7.3807791630272055, 110.6200051]
+        }
+      }
+    ]
+  }
+  
